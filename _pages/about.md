@@ -12,7 +12,14 @@ This is the front page of a website that is powered by the [academicpages templa
 
 A data-driven personal website
 ======
+add heading
+
+A data-driven personal website
+======
+add heading
+
 Like many other
 ======
+
 websites
 
