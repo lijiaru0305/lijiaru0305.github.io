@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiaru Li's Homepage"
+title: "Jiaru's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
