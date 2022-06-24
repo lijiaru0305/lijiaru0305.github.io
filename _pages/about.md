@@ -13,6 +13,8 @@ This is the front page of a website that is powered by the [academicpages templa
 Publication List
 =====
 
+Ya-Ping Li, Adam Dempsey, Hui Li, Shengtai Li, and <b>Jiaru Li</b>, <i>"Hot Circumsingle Disks Drive Binary Black Hole Mergers in Active Galactic Nucleus Disks"</i>, ApJ 928, L19, 2022.
+
 Ya-Ping Li, Adam Dempsey, Shengtai Li, Hui Li, and <b>Jiaru Li</b>, <i>"Orbital Evolution of Binary Black Holes in Active Galactic Nucleus Disks: A Disk Channel for Binary Black Hole Mergers?"</i>, ApJ 911, 124, 2021.
 
 <b>Jiaru Li</b>, Adam Dempsey, Hui Li, and Shengtai Li, <i>"Ring Formation in Protoplanetary Disks Driven by an Eccentric Instability"</i>, ApJ 910, 79, 2021.
