@@ -3,7 +3,7 @@ title: "Geometric phase effects in excited state dynamics through a conical inte
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: "<b>Jiaru Li</b>, Loïc Joubert-Doriol, and Artur F. Izmaylov, 2017, <i>J. Chem. Phys.</i> 147, 064106 "
-date:
+date: 2017-08-09
 venue: 
 paperurl: 
 citation: 
