@@ -13,12 +13,12 @@ This is the front page of a website that is powered by the [academicpages templa
 Publication List
 =====
 
-Ya-ping Li, Adam Dempsey, Shengtai Li, Hui Li, and <b>Jiaru Li</b>, <i>"Orbital Evolution of Binary Black Holes in Active Galactic Nucleus Disks: A Disk Channel for Binary Black Hole Mergers?"</i>, <i>ApJ</i> 911, 124, 2021.
+Ya-ping Li, Adam Dempsey, Shengtai Li, Hui Li, and <b>Jiaru Li</b>, <i>"Orbital Evolution of Binary Black Holes in Active Galactic Nucleus Disks: A Disk Channel for Binary Black Hole Mergers?"</i>, ApJ 911, 124, 2021.
 
-<b>Jiaru Li</b>, Adam Dempsey, Hui Li, and Shengtai Li, <i>"Ring Formation in Protoplanetary Disks Driven by an Eccentric Instability"</i>, <i>ApJ</i> 910, 79, 2021.
+<b>Jiaru Li</b>, Adam Dempsey, Hui Li, and Shengtai Li, <i>"Ring Formation in Protoplanetary Disks Driven by an Eccentric Instability"</i>, ApJ 910, 79, 2021.
 
-<b>Jiaru Li</b>, Dong Lai, Kassandra Anderson, and Bonan Pu, <i>"Giant Planet Scatterings and Collisions: Hydrodynamics, Merger-Ejection Branching Ratio, and Properties of the Remnants"</i>, <i>MNRAS</i> 501, 1621, 2021.
+<b>Jiaru Li</b>, Dong Lai, Kassandra Anderson, and Bonan Pu, <i>"Giant Planet Scatterings and Collisions: Hydrodynamics, Merger-Ejection Branching Ratio, and Properties of the Remnants"</i>, MNRAS 501, 1621, 2021.
 
-<b>Jiaru Li</b> and Dong Lai, <i>"Planetary Spin and Obliquity from Mergers"</i>, <i>ApJL</i> 898, L20, 2020.
+<b>Jiaru Li</b> and Dong Lai, <i>"Planetary Spin and Obliquity from Mergers"</i>, ApJL 898, L20, 2020.
 
-<b>Jiaru Li</b>, Loïc Joubert-Doriol, and Artur F. Izmaylov, <i>"Geometric Phase Effects in Excited State Dynamics through a Conical Intersection in Large Molecules: N-Dimensional Linear Vibronic Coupling Model Study"</i>, <i>J. Chem. Phys.</i> 147, 064106, 2017.
+<b>Jiaru Li</b>, Loïc Joubert-Doriol, and Artur F. Izmaylov, <i>"Geometric Phase Effects in Excited State Dynamics through a Conical Intersection in Large Molecules: N-Dimensional Linear Vibronic Coupling Model Study"</i>, J. Chem. Phys. 147, 064106, 2017.
