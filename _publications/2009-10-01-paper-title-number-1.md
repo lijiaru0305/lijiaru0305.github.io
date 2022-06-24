@@ -2,8 +2,8 @@
 title: "Geometric phase effects in excited state dynamics through a conical intersection in large molecules: N-dimensional linear vibronic coupling model study"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: "<b>Jiaru Li</b>, Loïc Joubert-Doriol, and Artur F. Izmaylov, 2017, <i>J. Chem. Phys.</i> 147, 064106 https://doi.org/10.1063/1.4985925 "
-date: 2017-08-09
+excerpt: "<b>Jiaru Li</b>, Loïc Joubert-Doriol, and Artur F. Izmaylov, 2017, <i>J. Chem. Phys.</i> 147, 064106 "
+date:
 venue: 
 paperurl: 
 citation: 
