@@ -2,7 +2,7 @@
 title: "Geometric phase effects in excited state dynamics through a conical intersection in large molecules: N-dimensional linear vibronic coupling model study"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 
 date: 2017-08-09
 venue: 'The Journal of Chemical Physics'
 paperurl: 
