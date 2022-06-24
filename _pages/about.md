@@ -10,4 +10,11 @@ redirect_from:
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
+Publication List
+=====
 
+<b>Jiaru Li</b>, Dong Lai, Kassandra Anderson, and Bonan Pu, <i>Giant Planet Scatterings and Collisions: Hydrodynamics, Merger-Ejection Branching Ratio, and Properties of the Remnants<\i>, <i>MNRAS<\i> 501, 1621, 2021.
+
+<b>Jiaru Li</b> and Dong Lai, <i>Planetary Spin and Obliquity from Mergers<\i>, <i>ApJL<\i> 898, L20, 2020.
+
+<b>Jiaru Li</b>, Loïc Joubert-Doriol, and Artur F. Izmaylov, <i>Geometric Phase Effects in Excited State Dynamics through a Conical Intersection in Large Molecules: N-Dimensional Linear Vibronic Coupling Model Study<\i>, <i>J. Chem. Phys.<\i> 147, 064106, 2017.
