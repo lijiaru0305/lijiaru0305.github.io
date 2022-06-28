@@ -12,7 +12,9 @@ Hello! I am a Ph.D. student in astronomy at Cornell University advised by Prof. 
 
 My research interests include exoplanetary dynamics, protoplanetary disks, and the dynamical evolution of embedded black holes in the AGN disks. I study the theories of these topics with <i>N</i>-body and hydrodynamics simulations. Please check out the [Research page](https://lijiaru0305.github.io/publications/) for more details.
 
-I joined Cornell as a graduate student in 2017. I also spent two years of my grad school at Los Alamos National Laboratory, where I worked with Dr. Hui Li and his group. My bachelor's degree was obtained at University of Toronto at Scarborough, where I worked with on Prof. Artur Izmaylov on quantum chemistry. Before I started my university study, I was born and raised in Hangzhou, China. 
+I joined Cornell as a graduate student in 2017. I also spent two years of my grad school at Los Alamos National Laboratory, where I worked with Dr. Hui Li and his group. My bachelor's degree was obtained at University of Toronto at Scarborough, where I worked with on Prof. Artur Izmaylov on quantum chemistry. 
+
+Before I started my university study, I was born and raised in Hangzhou, China. 
 
 
 Publication List
