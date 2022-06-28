@@ -22,7 +22,7 @@ Before I started my university study, I was born and raised in Hangzhou, China.
 Publication List
 =====
 
-<b>Jiaru Li</b>, Dong Lai, and Laetitia Rodet, <i>"Long-term Evolution of Tightly-Packed Stellar Black Holes in AGN Disks: Formation of Merging Black-Hole Binaries via Close Encounters"</i>, ApJ accepted.
+<ins><b>Jiaru Li</b></ins>, Dong Lai, and Laetitia Rodet, <i>"Long-term Evolution of Tightly-Packed Stellar Black Holes in AGN Disks: Formation of Merging Black-Hole Binaries via Close Encounters"</i>, ApJ accepted.
 
 Ya-Ping Li, Adam Dempsey, Hui Li, Shengtai Li, and <b>Jiaru Li</b>, <i>"Hot Circumsingle Disks Drive Binary Black Hole Mergers in Active Galactic Nucleus Disks"</i>, ApJ 928, L19, 2022.
 
