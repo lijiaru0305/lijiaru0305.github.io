@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I am a Ph.D. student in astronomy at Cornell University advised by Prof. Dong Lai. 
 
-My research interests include exoplanetary dynamics, protoplanetary disks, and the dynamical evolution of embedded black holes in the AGN disks. I primarily work on theories in these topics using <i>N</i>-body and hydrodynamics simulations. Please check out the [Research page](https://lijiaru0305.github.io/publications/) for more details.
+My research interests include exoplanetary dynamics, protoplanetary disks, and the dynamical evolution of embedded black holes in the AGN disks. I primarily study theories in these topics using <i>N</i>-body and hydrodynamics simulations. Please check out the [Research page](https://lijiaru0305.github.io/publications/) for more details.
 
 I joined Cornell as a graduate student in 2017. I also spent two years of my grad school at Los Alamos National Laboratory, where I worked with Dr. Hui Li and his group. My bachelor's degree was obtained at University of Toronto at Scarborough, where I worked with on Prof. Artur Izmaylov on quantum chemistry. 
 
