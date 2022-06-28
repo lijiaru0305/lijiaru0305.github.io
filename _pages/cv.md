@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * H.B.Sc. in Physics, University of Toronto at Scarborough, 2017
-* Ph.D in AStronomy, Cornell University, 2023 (expected)
+* Ph.D in Astronomy, Cornell University, 2023 (expected)
 
 Work experience
 ======
