@@ -1,0 +1,18 @@
+---
+title: "Orbital Evolution of Binary Black Holes in Active Galactic Nucleus Disks: A Disk Channel for Binary Black Hole Mergers?"
+collection: publications
+permalink: /publication/paper-LDLLL2021
+excerpt: "Ya-Ping Li, Adam Dempsey, Hui Li, Shengtai Li, and <ins><b>Jiaru Li</b></ins>, <i>ApJ</i> 911, 124, 2021"
+date: 2021-03-29
+venue: "Astrophysical Journal"
+paperurl: 
+citation:
+---
+
+Ya-Ping Li, Adam Dempsey, Hui Li, Shengtai Li, and <ins><b>Jiaru Li</b></ins>
+
+<b>Publication:</b>  Astrophysical Journal 911, 124, 2021
+
+<b>Abstract:</b> We perform a series of high-resolution 2D hydrodynamical simulations of equal-mass binary black holes (BBHs) embedded in active galactic nucleus (AGN) accretion disks to study whether these binaries can be driven to merger by the surrounding gas. We find that the gravitational softening adopted for the BBH has a profound impact on this result. When the softening is less than 10% of the binary separation, we show that, in agreement with recent simulations of isolated equal-mass binaries, prograde BBHs expand in time rather than contract. Eventually, however, the binary separation becomes large enough that the tidal force of the central AGN disrupts them. Only when the softening is relatively large do we find that prograde BBHs harden. We determine through detailed analysis of the binary torque, that this dichotomy is due to a loss of spiral structure in the circum-single disks orbiting each black hole when the softening is a significant fraction of the binary separation. Properly resolving these spirals—both with high resolution and small softening—results in a significant source of binary angular momentum. Only for retrograde BBHs do we find consistent hardening, regardless of softening, as these BBHs lack the important spiral structure in their circum-single disks. This suggests that the gas-driven inspiral of retrograde binaries can produce a population of compact BBHs in the gravitational-wave-emitting regime in AGN disks, which may contribute a large fraction to the observed BBH mergers.
+
+<b>Paper links:</b>  [[publisher]](https://iopscience.iop.org/article/10.3847/1538-4357/abed48)  [[arXiv]](https://arxiv.org/abs/2101.09406)  [[NASA ADS]](https://ui.adsabs.harvard.edu/abs/2021ApJ...911..124L/abstract)
