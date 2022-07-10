@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jiaru Li"
-  avatar           : "profile_image/profile_NYC_highland.jpg"
+  avatar           : "/profile_image/profile_NYC_highland.jpg"
   bio              : "jiaru_li@astro.cornell.edu"
   location         : "Ithaca, NY / Los Alamos, NM"
   employer         : "Cornell University"
