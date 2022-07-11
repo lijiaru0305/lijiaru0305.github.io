@@ -1,8 +1,9 @@
 ---
 title: "Geometric phase effects in the excited state dyanmics of N-dimensional linear vibronic coupling model"
 collection: posters
+type: "Symposium on Chemical Physics"
 permalink: /files/poster-GP-UW2016.pdf
-venue: "Symposium on Chemical Physics"
+venue: "University of Waterloo"
 date: 2016-11-04
-location: "University of Waterloo, Waterloo, Ontario, Canada"
+location: "Waterloo, Ontario, Canada"
 ---
