@@ -17,7 +17,6 @@ Education
 Work Experience
 ======
 * <b>Graduate Student</b>: &nbsp;&nbsp;&nbsp; Cornell University &nbsp;&nbsp;&nbsp; 08/2017 - Present 
-  * Cornell University
   * Advisor: Professor Dong Lai
   * Research topics: orbital dynamics of planetary and exo-planetary systems, planetary collisions
 
