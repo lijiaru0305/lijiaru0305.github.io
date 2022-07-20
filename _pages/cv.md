@@ -16,12 +16,12 @@ Education
 
 Work experience
 ======
-* Graduate Student:      08/2017 - Present
+* Graduate Student:      <p align="center"> 08/2017 - Present </p>
   * Cornell University
   * Advisor: Professor Dong Lai
   * Research topics: orbital dynamics of planetary and exo-planetary systems, planetary collisions
 
-* Gratuate Research Assistant:      09/2021 - 08/2022, 01/2020 - 12/2020    
+* Gratuate Research Assistant:      <p align="center"> 09/2021 - 08/2022, 01/2020 - 12/2020 </p>   
   * Los Alamos National Laboratory
   * Supervisor: Dr. Hui Li
   * Research topics: protoplanetary disks, blacks holes embedded in AGN disks
