@@ -16,11 +16,13 @@ Education
 
 Work Experience
 ======
-* <b>Graduate Student</b>: &nbsp;&nbsp;&nbsp; Cornell University &nbsp;&nbsp;&nbsp; 08/2017 - Present 
+* <b>Graduate Student</b>: &nbsp;&nbsp;&nbsp; 08/2017 - Present 
+  * Cornell University, Ithaca, NY, USA
   * Advisor: Professor Dong Lai
   * Research topics: orbital dynamics of planetary and exo-planetary systems, planetary collisions
 
-* <b>Gratuate Research Assistant</b>: &nbsp;&nbsp;&nbsp; Los Alamos National Laboratory &nbsp;&nbsp;&nbsp; 09/2021 - 08/2022, 01/2020 - 12/2020
+* <b>Gratuate Research Assistant</b>: &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; 09/2021 - 08/2022, 01/2020 - 12/2020
+  * Los Alamos National Laboratory, Los Alamos, NM, USA
   * Supervisor: Dr. Hui Li
   * Research topics: protoplanetary disks, blacks holes embedded in AGN disks
   
