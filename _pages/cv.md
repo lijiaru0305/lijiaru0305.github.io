@@ -29,16 +29,16 @@ Work Experience
 * <b>Undergraduate Research Assistant</b>: &nbsp;&nbsp;&nbsp; 09/2015 - 07/2017
   * University of Toronto, Toronto, ON, Canada
   * Supervisor: Professor Artur Izmaylov
-  * Research topics: geometric phase effects in quantum physics of molecues
+  * Research topics: geometric phase effects in quantum physics of molecules
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Astrophysics
+* Simulations
+  * N-body simulations
+  * Hydrodynsmics simulations (grid-based and SPH)
+  * Molecule dynamics simulations
+* Programming (Python, C++, Matlab)
 
 Publications
 ======
