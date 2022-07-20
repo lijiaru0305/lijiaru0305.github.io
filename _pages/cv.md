@@ -20,13 +20,13 @@ Work Experience
   * Cornell University, Ithaca, NY, USA
   * Advisor: Professor Dong Lai
   * Research topics: orbital dynamics of planetary and exo-planetary systems, planetary collisions
-  * Tool: N-body simulations, smoothed-particle hydrodynamics
+  * Tool: N-body simulations, SPH simulations
 
 * <b>Gratuate Research Assistant</b>: &nbsp;&nbsp;&nbsp; 09/2021 - 08/2022, 01/2020 - 12/2020
   * Los Alamos National Laboratory, Los Alamos, NM, USA
   * Supervisor: Dr. Hui Li
   * Research topics: protoplanetary disks, blacks holes embedded in AGN disks
-  * Tool: hydrodynamics simulations (with Eulerian grid)
+  * Tool: hydrodynamics simulations
 
 * <b>Undergraduate Research Assistant</b>: &nbsp;&nbsp;&nbsp; 09/2015 - 07/2017
   * University of Toronto, Toronto, ON, Canada
