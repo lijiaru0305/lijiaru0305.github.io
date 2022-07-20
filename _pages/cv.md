@@ -16,15 +16,15 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Student:      08/2017 - Present
+  * Cornell University
+  * Advisor: Professor Dong Lai
+  * Research topics: orbital dynamics of planetary and exo-planetary systems, planetary collisions
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Gratuate Research Assistant:      09/2021 - 08/2022, 01/2020 - 12/2020    
+  * Los Alamos National Laboratory
+  * Supervisor: Dr. Hui Li
+  * Research topics: protoplanetary disks, blacks holes embedded in AGN disks
   
 Skills
 ======
