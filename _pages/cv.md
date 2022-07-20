@@ -21,10 +21,15 @@ Work Experience
   * Advisor: Professor Dong Lai
   * Research topics: orbital dynamics of planetary and exo-planetary systems, planetary collisions
 
-* <b>Gratuate Research Assistant</b>: &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; 09/2021 - 08/2022, 01/2020 - 12/2020
+* <b>Gratuate Research Assistant</b>: &nbsp;&nbsp;&nbsp; 09/2021 - 08/2022, 01/2020 - 12/2020
   * Los Alamos National Laboratory, Los Alamos, NM, USA
   * Supervisor: Dr. Hui Li
   * Research topics: protoplanetary disks, blacks holes embedded in AGN disks
+
+* <b>Undergraduate Research Assistant</b>: &nbsp;&nbsp;&nbsp; 09/2015 - 07/2017
+  * University of Toronto, Toronto, ON, Canada
+  * Supervisor: Professor Artur Izmaylov
+  * Research topics: geometric phase effects in quantum physics of molecues
   
 Skills
 ======
