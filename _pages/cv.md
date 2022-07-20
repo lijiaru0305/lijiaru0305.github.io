@@ -21,7 +21,7 @@ Work experience
   * Advisor: Professor Dong Lai
   * Research topics: orbital dynamics of planetary and exo-planetary systems, planetary collisions
 
-* <b>Gratuate Research Assistant</b>:      <p align="center"> 09/2021 - 08/2022, 01/2020 - 12/2020 </p>   
+* <b>Gratuate Research Assistant</b>:   09/2021 - 08/2022, 01/2020 - 12/2020
   * Los Alamos National Laboratory
   * Supervisor: Dr. Hui Li
   * Research topics: protoplanetary disks, blacks holes embedded in AGN disks
