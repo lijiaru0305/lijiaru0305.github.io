@@ -14,15 +14,14 @@ Education
 * H.B.Sc. in Physics, University of Toronto at Scarborough, 2017
 * Ph.D. in Astronomy, Cornell University, 2023 (expected)
 
-Work experience
+Work Experience
 ======
-* <b>Graduate Student</b>:      08/2017 - Present 
+* <b>Graduate Student</b>:..............Cornell University................08/2017 - Present 
   * Cornell University
   * Advisor: Professor Dong Lai
   * Research topics: orbital dynamics of planetary and exo-planetary systems, planetary collisions
 
-* <b>Gratuate Research Assistant</b>:   09/2021 - 08/2022, 01/2020 - 12/2020
-  * Los Alamos National Laboratory
+* <b>Gratuate Research Assistant</b>:...Los Alamos National Laboratory....09/2021 - 08/2022, 01/2020 - 12/2020
   * Supervisor: Dr. Hui Li
   * Research topics: protoplanetary disks, blacks holes embedded in AGN disks
   
