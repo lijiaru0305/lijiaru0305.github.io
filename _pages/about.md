@@ -19,7 +19,7 @@ Before I started my university study, I was born and raised in Hangzhou, China.
 
 
 
-Publication List
+Publications
 =====
 
 <ins><b>Jiaru Li</b></ins>, Laetitia Rodet, and Dong Lai, <i>"Dynamical Instability in Multi-Orbiter Systems with Gas Friction"</i>, submitted.
