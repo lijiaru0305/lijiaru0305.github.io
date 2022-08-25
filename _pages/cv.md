@@ -45,7 +45,7 @@ Publications
 
 <ins><b>Jiaru Li</b></ins>, Laetitia Rodet, and Dong Lai, <i>"Dynamical Instability in Multi-Orbiter Systems with Gas Friction"</i>, submitted.
 
-<ins><b>Jiaru Li</b></ins>, Dong Lai, and Laetitia Rodet, <i>"Long-term Evolution of Tightly-Packed Stellar Black Holes in AGN Disks: Formation of Merging Black-Hole Binaries via Close Encounters"</i>, ApJ accepted.
+<ins><b>Jiaru Li</b></ins>, Dong Lai, and Laetitia Rodet, <i>"Long-term Evolution of Tightly Packed Stellar Black Holes in AGN Disks: Formation of Merging Black Hole Binaries via Close Encounters"</i>, ApJ 934, 154, 2022
 
 Ya-Ping Li, Adam Dempsey, Hui Li, Shengtai Li, and <ins><b>Jiaru Li</b></ins>, <i>"Hot Circumsingle Disks Drive Binary Black Hole Mergers in Active Galactic Nucleus Disks"</i>, ApJ 928, L19, 2022.
 
