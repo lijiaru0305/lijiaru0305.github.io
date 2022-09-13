@@ -38,7 +38,7 @@ Skills
   * N-body simulations
   * Hydrodynsmics simulations (grid-based and SPH)
   * Molecular dynamics simulations
-* Programming (Python, C++, Matlab)
+* Programming (Python, Fortran, C++, Matlab)
 
 Publications
 ======
