@@ -2,7 +2,7 @@
 title: "Excitation of Planetary Eccentricity due to a Dispersing Protoplanetary Disk"
 collection: publications
 excerpt: "<ins><b>Jiaru Li</b></ins> and Dong Lai, <i> in preparation.</i>"
-date: 2022-xx-xx
+date: 2022-09-12
 venue: "in preparation."
 paperurl: 
 citation:
