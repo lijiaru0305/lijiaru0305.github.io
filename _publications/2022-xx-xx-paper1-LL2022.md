@@ -3,7 +3,7 @@ title: "Formation of Black Hole Binaries in AGN Disks by a Departure Drag"
 collection: publications
 permalink: /publication/paper-LDLLL2022
 excerpt: "<ins><b>Jiaru Li</b></ins>, Adam Dempsey, Hui Li, Dong Lai, and Shengtai Li, <i> to be submitted</i>"
-date: 2022-08-19
+date: 2022-09-12
 venue: "to be submitted to Astrophysical Journal Letters"
 paperurl: 
 citation:
