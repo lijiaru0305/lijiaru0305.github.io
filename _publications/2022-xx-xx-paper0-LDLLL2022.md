@@ -1,16 +1,16 @@
 ---
 title: "Excitation of Planetary Eccentricity due to a Dispersing Protoplanetary Disk"
 collection: publications
-excerpt: "<ins><b>Jiaru Li</b></ins> and Dong Lai, <i> to be submitted</i>"
+excerpt: "<ins><b>Jiaru Li</b></ins> and Dong Lai, <i> in preparation.</i>"
 date: 2022-xx-xx
-venue: "to be submitted"
+venue: "in preparation."
 paperurl: 
 citation:
 ---
 
 <ins><b>Jiaru Li</b></ins> and Dong Lai
 
-<b>Publication:</b>  to be submitted
+<b>Publication:</b>  in preparation.
 
 <b>Abstract:</b> to be added
 
