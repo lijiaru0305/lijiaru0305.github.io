@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-PDF version can be downloaded [here](https://lijiaru0305.github.io/files/CV_Jiaru_Li.pdf).
-<a href="https://lijiaru0305.github.io/files/CV_Jiaru_Li.pdf" target="_blank"><b><big>here</big></b>
-</a>
+PDF version can be downloaded <a href="https://lijiaru0305.github.io/files/CV_Jiaru_Li.pdf" target="_blank"><b><big>here</big></b></a>.
 
 Education
 ======
