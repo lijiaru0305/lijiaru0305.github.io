@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+PDF version can be downloaded [here](https://lijiaru0305.github.io/files/CV_Jiaru_Li.pdf).
+
 Education
 ======
 * H.B.Sc. in Physics, University of Toronto at Scarborough, 2017
