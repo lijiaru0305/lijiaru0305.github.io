@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-The PDF version of my CV can be downloaded <a href="https://lijiaru0305.github.io/files/CV_Jiaru_Li.pdf" target="_blank"><b>here</b></a>.
+The PDF version of my CV can be downloaded <a href="https://lijiaru0305.github.io/files/Li_Jiaru_CV_Pub.pdf" target="_blank"><b>here</b></a>. 
+Link to my NASA/ADS [library](https://ui.adsabs.harvard.edu/public-libraries/yiylY6n_SvmJ3rwZFToSCQ).
 
 Education
 ======
