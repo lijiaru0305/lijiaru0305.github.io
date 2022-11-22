@@ -45,8 +45,7 @@ Skills
 Publications
 ======
 
-<ins><b>Jiaru Li</b></ins>, Adam Dempsey, Hui Li, Dong Lai, and Shengtai Li, <i>"Hydrodynamical Simulations of Black-Hole Binary Formation in AGN Disks
-"</i>, submitted.
+<ins><b>Jiaru Li</b></ins>, Adam Dempsey, Hui Li, Dong Lai, and Shengtai Li, <i>"Hydrodynamical Simulations of Black-Hole Binary Formation in AGN Disks"</i>, submitted.
 
 <ins><b>Jiaru Li</b></ins> and Dong Lai, <i>"Resonant Excitation of Planetary Eccentricity due to a Dispersing Eccentric Protoplanetary Disk: A New Mechanism of Generating Large Planetary Eccentricities"</i>, submitted.
 
