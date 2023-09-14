@@ -14,11 +14,11 @@ The PDF version of my CV can be downloaded <a href="https://lijiaru0305.github.i
 Education
 ======
 * H.B.Sc. in Physics, University of Toronto at Scarborough, 2017
-* Ph.D. in Astronomy, Cornell University, 2023 (expected)
+* Ph.D. in Astronomy, Cornell University, 2023
 
 Work Experience
 ======
-* <b>Graduate Student</b>: &nbsp;&nbsp;&nbsp; 08/2017 - Present 
+* <b>Graduate Student</b>: &nbsp;&nbsp;&nbsp; 08/2017 - 08/2023 
   * Cornell University, Ithaca, NY, USA
   * Advisor: Professor Dong Lai
   * Research topics: orbital dynamics of planetary and exo-planetary systems, planetary collisions
