@@ -22,7 +22,7 @@ Work Experience
   * Center for Interdisciplinary Exploration and Research in Astrophysics, Northwestern University, Evanston, IL, USA
   * Mentor: Professor Yoram Lithwick
   * Research topics: eccentricity evolution in protoplanetary disks
-  * 
+   
 * <b>Graduate Student</b>: &nbsp;&nbsp;&nbsp; 08/2017 - 08/2023 
   * Cornell University, Ithaca, NY, USA
   * Advisor: Professor Dong Lai
