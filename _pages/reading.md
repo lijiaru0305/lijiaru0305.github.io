@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Papers to read"
-permalink: /_reading/
-author_profile: true
+permalink: /reading/
+author_profile: false
 redirect_from:
   - /papers
 ---
