@@ -2,7 +2,7 @@
 layout: archive
 title: "Papers to read"
 permalink: /reading/
-author_profile: flase
+author_profile: false
 redirect_from:
   - /papers
 ---
