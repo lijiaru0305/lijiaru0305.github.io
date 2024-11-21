@@ -13,7 +13,16 @@ The page is to minic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Nov 18, 2024
 ======
-* Tue Wed 20, 2024
+* Thu Nov 21, 2024
+  * [Expanding the ultracompacts: gravitational wave-driven mass transfer in the shortest-period binaries with accretion disks](https://arxiv.org/pdf/2411.12796)
+  * [Streams and Bubbles: Tidal Shaping of Planetary Outflows](https://arxiv.org/pdf/2411.12895)
+  * [Understanding the UV/Optical Variability of AGNs through Quasi-Periodic Large-scale Magnetic Dynamos](https://arxiv.org/pdf/2411.12953)
+  * [Grain Size in the Class I Protostellar System TMC-1A Constrained with ALMA and VLA Observations](https://arxiv.org/pdf/2411.13044)
+  * [Impact of Jupiter’s heating and self-shadowing on the Jovian circumplanetary disk structure](https://arxiv.org/pdf/2411.13351)
+  * [Small and Close-In Planets are Uncommon around A-type Stars](https://arxiv.org/pdf/2411.13363)
+  * [Eppur si muove: Evidence of disc precession or a sub-milliparsec SMBH binary in the QPE-emitting galaxy GSN 069](https://arxiv.org/pdf/2411.13460)
+  * [Accreting Binary Eccentricities follow Predicted Equilibrium Values](https://arxiv.org/pdf/2411.13489)
+* Wed Nov 20, 2024
   * [Light Echoes of Protoplanetary Disks](https://arxiv.org/pdf/2411.11999)
   * [Developing a Non-Newtonian Fluid Model for Dust, for Application to Astrophysical Flows](https://arxiv.org/pdf/2411.12462)
   * [Observational Signatures of Dust Traffic Jams in Polar-Aligning Circumbinary Disks](https://arxiv.org/pdf/2411.12614)
