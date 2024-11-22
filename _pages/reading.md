@@ -13,6 +13,10 @@ The page is to minic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Nov 18, 2024
 ======
+* Fri Nov 22, 2024
+  * [Planets Around Solar Twins/Analogs (PASTA) I.: High precision stellar chemical abundance for 17 planet-hosting stars and the condensation temperature trend](https://arxiv.org/pdf/2411.13825)
+  * [Collisional damping in debris discs: Only significant if collision velocities are low](https://arxiv.org/pdf/2411.13991)
+  * [Observing planetary gaps in the gas of debris disks](https://arxiv.org/pdf/2411.14241)
 * Thu Nov 21, 2024
   * [Expanding the ultracompacts: gravitational wave-driven mass transfer in the shortest-period binaries with accretion disks](https://arxiv.org/pdf/2411.12796)
   * [Streams and Bubbles: Tidal Shaping of Planetary Outflows](https://arxiv.org/pdf/2411.12895)
