@@ -14,7 +14,11 @@ The page is to minic <a href="https://donglai6.github.io/gp.html" target="_blank
 Week of Nov 25, 2024
 ======
 * Mon Nov 25, 2024
-
+  * [Pebble Accretion](https://arxiv.org/pdf/2411.14643)
+  * [The Moon-forming Impact as a Constraint for the Inner Solar System's Formation](https://arxiv.org/pdf/2411.14709)
+  * [Stochastic acceleration in arbitrary astrophysical environments](https://arxiv.org/pdf/2411.14804)
+  * [PDS 70b Shows Stellar-like Carbon-to-Oxygen Ratio](https://arxiv.org/pdf/2411.15117)
+     
 Week of Nov 18, 2024
 ======
 * Fri Nov 22, 2024
