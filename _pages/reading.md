@@ -11,6 +11,10 @@ redirect_from:
 
 The page is to minic <a href="https://donglai6.github.io/gp.html" target="_blank"><b>Dong's group meeting paper page</b></a>.
 
+Week of Nov 25, 2024
+======
+* Mon Nov 25, 2024
+
 Week of Nov 18, 2024
 ======
 * Fri Nov 22, 2024
