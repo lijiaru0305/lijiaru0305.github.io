@@ -14,13 +14,13 @@ The page is to minic <a href="https://donglai6.github.io/gp.html" target="_blank
 Week of Nov 25, 2024
 ======
 * Wed Nov 27, 2024
-  * [Mixed origins: strong natal kicks for some black holes and none for others](https://arxiv.org/html/2411.16847v1)
-  * [A possible misaligned orbit for the young planet AU Mic c](https://arxiv.org/html/2411.16958v1)
-  * [Revisiting the conundrum of the sub-Jovian and Neptune desert. A new approach that incorporates stellar properties](https://arxiv.org/html/2411.16960v1)
-  * [Comment on "Did the terrestrial planets of the Solar System form by pebble accretion?"](https://arxiv.org/html/2411.17043v1)
-  * [Secret of Longevity: Protoplanetary Disks as a Source of Gas in Debris Disk](https://arxiv.org/html/2411.17114v1)
-  * [Kinetic Field Theory Applied to Planetesimal Formation I: Freely Streaming Dust Particles](https://arxiv.org/html/2411.17514v1)
-  * [Validating the Orbital Periods of the Coolest TESS Exoplanet Candidates](https://arxiv.org/html/2411.17640v1)
+  * [Mixed origins: strong natal kicks for some black holes and none for others](https://arxiv.org/pdf/2411.16847v1)
+  * [A possible misaligned orbit for the young planet AU Mic c](https://arxiv.org/pdf/2411.16958v1)
+  * [Revisiting the conundrum of the sub-Jovian and Neptune desert. A new approach that incorporates stellar properties](https://arxiv.org/pdf/2411.16960v1)
+  * [Comment on "Did the terrestrial planets of the Solar System form by pebble accretion?"](https://arxiv.org/pdf/2411.17043v1)
+  * [Secret of Longevity: Protoplanetary Disks as a Source of Gas in Debris Disk](https://arxiv.org/pdf/2411.17114v1)
+  * [Kinetic Field Theory Applied to Planetesimal Formation I: Freely Streaming Dust Particles](https://arxiv.org/pdf/2411.17514v1)
+  * [Validating the Orbital Periods of the Coolest TESS Exoplanet Candidates](https://arxiv.org/pdf/2411.17640v1)
 * Tue Nov 26, 2024
   * [Simulations of Eccentricity Growth in Compact Binary Accretion Disks with MHD Turbulence](https://arxiv.org/pdf/2411.15325)
   * [Once a giant, (almost) always a giant: Partial Tidal Disruption Events of Giant Stars](https://arxiv.org/pdf/2411.15346)
