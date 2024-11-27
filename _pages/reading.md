@@ -14,7 +14,7 @@ The page is to minic <a href="https://donglai6.github.io/gp.html" target="_blank
 Week of Nov 25, 2024
 ======
 * Tue Nov 26, 2024
-  * [Simulations of Eccentricity Growth in Compact Binary Accretion Disks with MHD Turbulence]([https://arxiv.org/pdf/2411.14643](https://arxiv.org/pdf/2411.15325))
+  * [Simulations of Eccentricity Growth in Compact Binary Accretion Disks with MHD Turbulence](https://arxiv.org/pdf/2411.15325)
   * [Once a giant, (almost) always a giant: Partial Tidal Disruption Events of Giant Stars](https://arxiv.org/pdf/2411.15346)
   * [Circumbinary disks in post-common envelope binary systems with compact objects](https://arxiv.org/pdf/2411.15652)
   * [The fate of EMRI-IMRI pairs in AGN accretion disks: long-term simulations](https://arxiv.org/pdf/2411.16070)
