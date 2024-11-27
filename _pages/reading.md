@@ -14,7 +14,7 @@ The page is to minic <a href="https://donglai6.github.io/gp.html" target="_blank
 Week of Nov 25, 2024
 ======
 * Wed Nov 27, 2024
-  * [Mixed origins: strong natal kicks for some black holes and none for others](https://arxiv.org/pdf/2411.16847v1/ "title" target="_blank")
+  * [Mixed origins: strong natal kicks for some black holes and none for others](https://arxiv.org/pdf/2411.16847v1)
   * [A possible misaligned orbit for the young planet AU Mic c](https://arxiv.org/pdf/2411.16958v1)
   * [Revisiting the conundrum of the sub-Jovian and Neptune desert. A new approach that incorporates stellar properties](https://arxiv.org/pdf/2411.16960v1)
   * [Comment on "Did the terrestrial planets of the Solar System form by pebble accretion?"](https://arxiv.org/pdf/2411.17043v1)
