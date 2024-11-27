@@ -21,7 +21,6 @@ Week of Nov 25, 2024
   * [Secret of Longevity: Protoplanetary Disks as a Source of Gas in Debris Disk](https://arxiv.org/html/2411.17114v1)
   * [Kinetic Field Theory Applied to Planetesimal Formation I: Freely Streaming Dust Particles](https://arxiv.org/html/2411.17514v1)
   * [Validating the Orbital Periods of the Coolest TESS Exoplanet Candidates](https://arxiv.org/html/2411.17640v1)
-  * 
 * Tue Nov 26, 2024
   * [Simulations of Eccentricity Growth in Compact Binary Accretion Disks with MHD Turbulence](https://arxiv.org/pdf/2411.15325)
   * [Once a giant, (almost) always a giant: Partial Tidal Disruption Events of Giant Stars](https://arxiv.org/pdf/2411.15346)
