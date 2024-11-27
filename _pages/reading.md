@@ -13,6 +13,8 @@ The page is to minic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Nov 25, 2024
 ======
+* Wed Nov 27, 2024
+  * [Simulations of Eccentricity Growth in Compact Binary Accretion Disks with MHD Turbulence](https://arxiv.org/pdf/2411.15325)
 * Tue Nov 26, 2024
   * [Simulations of Eccentricity Growth in Compact Binary Accretion Disks with MHD Turbulence](https://arxiv.org/pdf/2411.15325)
   * [Once a giant, (almost) always a giant: Partial Tidal Disruption Events of Giant Stars](https://arxiv.org/pdf/2411.15346)
