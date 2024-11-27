@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The page is to minic <a href="https://donglai6.github.io/gp.html" target="_blank"><b>Dong's group meeting paper page</b></a>. 
-
-Because I am lazy, please right-click if you want to read in new tabs.
+The page is to minic <a href="https://donglai6.github.io/gp.html" target="_blank"><b>Dong's group meeting paper page</b></a>. Because I am lazy, please right-click the links to read in new tabs.
 
 Week of Nov 25, 2024
 ======
