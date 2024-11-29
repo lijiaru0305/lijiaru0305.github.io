@@ -13,6 +13,8 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Nov 25, 2024
 ======
+* Fri Nov 29, 2024
+  * Thanksgiving, no arXiv update yet.  
 * Thu Nov 28, 2024
   * [A Measurement of the Water Abundance in the Atmosphere of the Hot Jupiter WASP-43b with High-resolution Cross-correlation Spectroscopy](https://arxiv.org/pdf/2411.17923)
 * Wed Nov 27, 2024
