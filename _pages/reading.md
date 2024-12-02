@@ -11,6 +11,15 @@ redirect_from:
 
 The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank"><b>Dong's group meeting paper page</b></a>. (PS: right-click on the links to read in new tabs.)
 
+Week of Dec 2, 2024
+======
+* Mon Dec 2, 2024
+  * [A giant planet transiting a 3-Myr protostar with a misaligned disk](https://arxiv.org/pdf/2411.18683)
+  * [Orbital Migration through Atmospheric Mass Loss](https://arxiv.org/pdf/2411.18960)
+  * [Hydrodynamical simulations with strong indirect terms in Fargo-like codes: Numerical aspects of non-inertial frame and artificial viscosity](https://arxiv.org/pdf/2411.19073)
+  * [Methods to Characterise Exoplanet Host Stars from Spectroscopy](https://arxiv.org/pdf/2411.19306)
+  * [Long-term stability and dynamical spacing of compact planetary systems](https://arxiv.org/pdf/2411.19590)
+
 Week of Nov 25, 2024
 ======
 * Fri Nov 29, 2024: Thanksgiving (no arXiv update yet)
