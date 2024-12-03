@@ -13,6 +13,14 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Dec 2, 2024
 ======
+* Tue Dec 3, 2024
+  * [Disk-Locking Regulates Stellar Rotation in Young Clusters: Insights from NGC 2264](https://arxiv.org/pdf/2412.00520)
+  * [Origins of rings in the solar system](https://arxiv.org/pdf/2412.00853)
+  * [Formation Rate of Quasi-periodic Eruptions in Galactic Nuclei Containing Single and Dual Supermassive Black Holes](https://arxiv.org/pdf/2412.01159)
+  * [Hydrodynamical simulations of proto-Moon degassing](https://arxiv.org/pdf/2412.01361)
+  * [An impact-free mechanism to deliver water to terrestrial planets and exoplanets](https://arxiv.org/pdf/2412.01409)
+  * [Concealing Circumbinary Planets with Tidal Shrinkage](https://arxiv.org/pdf/2412.01616)
+  * [The Yarkovsky effect on the long-term evolution of binary asteroids](https://arxiv.org/pdf/2405.16529)
 * Mon Dec 2, 2024
   * [A giant planet transiting a 3-Myr protostar with a misaligned disk](https://arxiv.org/pdf/2411.18683)
   * [Orbital Migration through Atmospheric Mass Loss](https://arxiv.org/pdf/2411.18960)
