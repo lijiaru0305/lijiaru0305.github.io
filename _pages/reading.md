@@ -13,6 +13,11 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Dec 2, 2024
 ======
+* Wed Dec 4, 2024
+  * [Late-time Evolution and Instabilities of Tidal Disruption Disks](https://arxiv.org/pdf/2412.01922)
+  * [Gravitational wave mergers of accreting binary black holes in AGN discs](https://arxiv.org/pdf/2412.01925)
+  * [Three Warm Jupiters orbiting TOI-6628, TOI-3837, TOI-5027 and one sub-Saturn orbiting TOI-2328](https://arxiv.org/pdf/2412.02069)
+  * [Forming Earth-like and Low-Mass Rocky Exoplanets Through Pebble and Planetesimal Accretion](https://arxiv.org/pdf/2412.02571)
 * Tue Dec 3, 2024
   * [Disk-Locking Regulates Stellar Rotation in Young Clusters: Insights from NGC 2264](https://arxiv.org/pdf/2412.00520)
   * [Origins of rings in the solar system](https://arxiv.org/pdf/2412.00853)
