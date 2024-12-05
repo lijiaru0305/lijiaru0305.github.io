@@ -13,6 +13,10 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Dec 2, 2024
 ======
+* Thu Dec 5, 2024
+  * [Discovery and Characterization of an Eccentric, Warm Saturn Transiting the Solar Analog TOI-4994](https://arxiv.org/pdf/2412.02769)
+  * [Exomoons of Circumbinary Planets](https://arxiv.org/pdf/2412.02847)
+  * [Angular Momentum Drain: Despinning Embedded Planetesimals](https://arxiv.org/pdf/2412.03533)
 * Wed Dec 4, 2024
   * [Late-time Evolution and Instabilities of Tidal Disruption Disks](https://arxiv.org/pdf/2412.01922)
   * [Gravitational wave mergers of accreting binary black holes in AGN discs](https://arxiv.org/pdf/2412.01925)
