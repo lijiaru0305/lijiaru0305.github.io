@@ -13,6 +13,11 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Dec 2, 2024
 ======
+* Fri Dec 6, 2024
+  * [Predictions of Dust Continuum Emission from a Potential Circumplanetary Disk: A Case Study of the Planet Candidate AB Aurigae b](https://arxiv.org/pdf/2412.03923)
+  * [Investigating Kozai-Lidov Oscillations and Disc Tearing in Be Star Discs](https://arxiv.org/pdf/2412.04299)
+  * [Journey to the center of the common envelope evolution. Inner dynamics of the post-dynamical inspiral](https://arxiv.org/pdf/2412.04419)
+  * [From Misaligned Sub-Saturns to Aligned Brown Dwarfs: The Highest Mp/M∗ Systems Exhibit Low Obliquities, Even around Hot Stars](https://arxiv.org/pdf/2412.04438)
 * Thu Dec 5, 2024
   * [Discovery and Characterization of an Eccentric, Warm Saturn Transiting the Solar Analog TOI-4994](https://arxiv.org/pdf/2412.02769)
   * [Exomoons of Circumbinary Planets](https://arxiv.org/pdf/2412.02847)
