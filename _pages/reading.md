@@ -11,6 +11,15 @@ redirect_from:
 
 The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank"><b>Dong's group meeting paper page</b></a>. (PS: right-click on the links to read in new tabs.)
 
+Week of Dec 9, 2024
+======
+* Mon Dec 9, 2024
+  *  [Machine learning approach for mapping the stable orbits around planets](https://arxiv.org/pdf/2412.04568)
+  *  [A substellar flyby that shaped the orbits of the giant planets](https://arxiv.org/pdf/2412.04583)
+  *  [Chondrites as thermal and mechanical archives of accretion processes in the Solar protoplanetary disk](https://arxiv.org/pdf/2412.04598)
+  *  [The effect of radiation pressure on the dispersal of photoevaporating discs](https://arxiv.org/pdf/2412.05054)
+  *  [The Origin and Evolution of Saturn: A Post-Cassini Perspective](https://arxiv.org/pdf/2205.06914)
+  
 Week of Dec 2, 2024
 ======
 * Fri Dec 6, 2024
