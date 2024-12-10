@@ -14,6 +14,10 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 Week of Dec 9, 2024
 ======
 * Mon Dec 9, 2024
+  * [A potential exomoon from the predicted planet obliquity of ](https://arxiv.org/pdf/2412.05988)
+  * [Dissecting the disk and the jet of a massive (proto)star. An ALMA view of IRAS20126+4104](https://arxiv.org/pdf/2412.06589)
+  * [On the formation of super-Jupiters: Core Accretion or Gravitational Instability?](https://arxiv.org/pdf/2412.06594) 
+* Mon Dec 9, 2024
   *  [Machine learning approach for mapping the stable orbits around planets](https://arxiv.org/pdf/2412.04568)
   *  [A substellar flyby that shaped the orbits of the giant planets](https://arxiv.org/pdf/2412.04583)
   *  [Chondrites as thermal and mechanical archives of accretion processes in the Solar protoplanetary disk](https://arxiv.org/pdf/2412.04598)
