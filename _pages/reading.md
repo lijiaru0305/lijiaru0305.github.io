@@ -13,7 +13,11 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Dec 9, 2024
 ======
-* Mon Dec 9, 2024
+* Wed Dec 11, 2024
+  * [On the kinematic and thermodynamic state of clouds in complex wind-multi-cloud environments using a Friends-of-Friends analysis](https://arxiv.org/pdf/2412.05988)
+  * [Linear bending wave propagation in laminar and turbulent discs](https://arxiv.org/pdf/2412.06955)
+  * [Simultaneous emission from dust and gas in the planetary debris orbiting a white dwarf](https://arxiv.org/pdf/2412.07647)
+* Tue Dec 10, 2024
   * [A potential exomoon from the predicted planet obliquity of ](https://arxiv.org/pdf/2412.05988)
   * [Dissecting the disk and the jet of a massive (proto)star. An ALMA view of IRAS20126+4104](https://arxiv.org/pdf/2412.06589)
   * [On the formation of super-Jupiters: Core Accretion or Gravitational Instability?](https://arxiv.org/pdf/2412.06594) 
