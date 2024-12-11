@@ -18,7 +18,7 @@ Week of Dec 9, 2024
   * [Linear bending wave propagation in laminar and turbulent discs](https://arxiv.org/pdf/2412.06955)
   * [Simultaneous emission from dust and gas in the planetary debris orbiting a white dwarf](https://arxiv.org/pdf/2412.07647)
 * Tue Dec 10, 2024
-  * [A potential exomoon from the predicted planet obliquity of ](https://arxiv.org/pdf/2412.05988)
+  * [A potential exomoon from the predicted planet obliquity of β Pictoris b](https://arxiv.org/pdf/2412.05988)
   * [Dissecting the disk and the jet of a massive (proto)star. An ALMA view of IRAS20126+4104](https://arxiv.org/pdf/2412.06589)
   * [On the formation of super-Jupiters: Core Accretion or Gravitational Instability?](https://arxiv.org/pdf/2412.06594) 
 * Mon Dec 9, 2024
