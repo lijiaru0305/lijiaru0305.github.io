@@ -13,6 +13,9 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Dec 9, 2024
 ======
+* Thu Dec 12, 2024
+  * [Probing the gas that builds planets: Results from the JWST MINDS program](https://arxiv.org/pdf/2412.07853)
+  * [An Obliquity Measurement of the Hot Neptune TOI-1694b](https://arxiv.org/pdf/2412.07950)
 * Wed Dec 11, 2024
   * [On the kinematic and thermodynamic state of clouds in complex wind-multi-cloud environments using a Friends-of-Friends analysis](https://arxiv.org/pdf/2412.05988)
   * [Linear bending wave propagation in laminar and turbulent discs](https://arxiv.org/pdf/2412.06955)
