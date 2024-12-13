@@ -14,7 +14,7 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 Week of Dec 9, 2024
 ======
 * Fri Dec 13, 2024
-  * [***The Spin-Orbit Alignment of 8 Warm Gas Giant Systems](https://arxiv.org/pdf/2412.08692)
+  * [*The Spin-Orbit Alignment of 8 Warm Gas Giant Systems](https://arxiv.org/pdf/2412.08692)
   * [Dynamical evolution of massless particles in star clusters with NBODY6++GPU-MASSLESS: I. Free-floating MLPs](https://arxiv.org/pdf/2412.08785)
   * [Two Earth-size Planets and an Earth-size Candidate Transiting the Nearby Star HD 101581](https://arxiv.org/pdf/2412.08863)
   * [Journey of complex organic molecules: Formation and transport in protoplanetary disks](https://arxiv.org/pdf/2412.09271)
