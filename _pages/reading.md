@@ -11,6 +11,12 @@ redirect_from:
 
 The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank"><b>Dong's group meeting paper page</b></a>. (PS: right-click on the links to read in new tabs.)
 
+Week of Dec 16, 2024
+======
+* Mon Dec 16, 2024
+  * [Vertical Shear Instability in Thermally-Stratified Protoplanetary Disks: I. A Linear Stability Analysis](https://arxiv.org/pdf/2412.09924)
+  * [Vertical Shear Instability in Thermally-Stratified Protoplanetary Disks: II. Hydrodynamic Simulations and Observability](https://arxiv.org/pdf/2412.09930)
+
 Week of Dec 9, 2024
 ======
 * Fri Dec 13, 2024
