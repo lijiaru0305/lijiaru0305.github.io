@@ -13,6 +13,14 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Dec 16, 2024
 ======
+* Tue Dec 17, 2024
+  * [*Circumbinary accretion as a diagnostic for binary--disc misalignment](https://arxiv.org/pdf/2412.10653)
+  * [Dust Scattering Albedo at Millimeter-Wavelengths in the TW Hya Disk](https://arxiv.org/pdf/2412.10731)
+  * [Planet formation theory: an overview](https://arxiv.org/pdf/2412.11064)
+  * [Vortex-Induced Rings and Gaps within Protoplanetary Disks](https://arxiv.org/pdf/2412.11507)
+  * [Combined analysis of the 12.8 and 15 μm JWST/MIRI eclipse observations of TRAPPIST-1 b](https://arxiv.org/pdf/2412.11627)
+  * [Evidence for the spin-kick alignment of pulsars from the statistics of their magnetic inclinations](https://arxiv.org/pdf/2412.12017)
+  * [Black Hole Merger Rates in AGN: contribution from gas-captu](https://arxiv.org/pdf/2412.12086)
 * Mon Dec 16, 2024
   * [Vertical Shear Instability in Thermally-Stratified Protoplanetary Disks: I. A Linear Stability Analysis](https://arxiv.org/pdf/2412.09924)
   * [Vertical Shear Instability in Thermally-Stratified Protoplanetary Disks: II. Hydrodynamic Simulations and Observability](https://arxiv.org/pdf/2412.09930)
