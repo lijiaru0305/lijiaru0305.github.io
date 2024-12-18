@@ -13,6 +13,12 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Dec 16, 2024
 ======
+* Wed Dec 18, 2024
+  * [*Creating Pileups of Eccentric Planet Pairs Wide of MMRs Through Divergent Migration](https://arxiv.org/pdf/2412.12415)
+  * [MINDS. JWST-MIRI reveals a peculiar CO2-rich chemistry in the drift-dominated disk CX Tau](https://arxiv.org/pdf/2412.12715)
+  * [The Galactic Disk North-south Asymmetry in Metallicity May Be A New Tracer for the Disk Warp](https://arxiv.org/pdf/2412.12876)
+  * [Variations in orbital elements of planets](https://arxiv.org/pdf/2412.12925)
+  * [Anisotropic tidal dissipation in misaligned planetary systems](https://arxiv.org/pdf/2412.13149)
 * Tue Dec 17, 2024
   * [*Circumbinary accretion as a diagnostic for binary--disc misalignment](https://arxiv.org/pdf/2412.10653)
   * [Dust Scattering Albedo at Millimeter-Wavelengths in the TW Hya Disk](https://arxiv.org/pdf/2412.10731)
