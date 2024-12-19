@@ -13,6 +13,11 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Dec 16, 2024
 ======
+* Thu Dec 19, 2024
+  * [Evolution of orbits of trans-Neptunian bodies at the 2:3 resonance with Neptune](https://arxiv.org/pdf/2412.13297)
+  * [The Hottest Neptunes Orbit Metal-Rich Stars](https://arxiv.org/pdf/2412.13245)
+  * [Streaming Torque with Turbulent Diffusion](https://arxiv.org/pdf/2412.13448)
+  * [On the maximum disk heating attributable to fuzzy dark matter](https://arxiv.org/pdf/2412.13275)
 * Wed Dec 18, 2024
   * [*Creating Pileups of Eccentric Planet Pairs Wide of MMRs Through Divergent Migration](https://arxiv.org/pdf/2412.12415)
   * [MINDS. JWST-MIRI reveals a peculiar CO2-rich chemistry in the drift-dominated disk CX Tau](https://arxiv.org/pdf/2412.12715)
