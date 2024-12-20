@@ -52,7 +52,7 @@ Week of Dec 9, 2024
   * [An Obliquity Measurement of the Hot Neptune TOI-1694b](https://arxiv.org/pdf/2412.07950)
 * Wed Dec 11, 2024
   * [On the kinematic and thermodynamic state of clouds in complex wind-multi-cloud environments using a Friends-of-Friends analysis](https://arxiv.org/pdf/2412.05988)
-  * [Linear bending wave propagation in laminar and turbulent discs](https://arxiv.org/pdf/2412.06955)
+  * [*Linear bending wave propagation in laminar and turbulent discs](https://arxiv.org/pdf/2412.06955)
   * [Simultaneous emission from dust and gas in the planetary debris orbiting a white dwarf](https://arxiv.org/pdf/2412.07647)
 * Tue Dec 10, 2024
   * [A potential exomoon from the predicted planet obliquity of β Pictoris b](https://arxiv.org/pdf/2412.05988)
