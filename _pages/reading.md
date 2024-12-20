@@ -13,6 +13,9 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Dec 16, 2024
 ======
+* Fri Dec 20, 2024
+  * [Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): Dynamical Evidence of a Spiral-Arm-Driving and Gap-Opening Protoplanet from SAO 206462 Spiral Motion](https://arxiv.org/pdf/2412.14402)
+  * [Shedding light on the origin of the broken misaligned circumtriple disk around GW Ori](https://arxiv.org/pdf/2412.14955)
 * Thu Dec 19, 2024
   * [Evolution of orbits of trans-Neptunian bodies at the 2:3 resonance with Neptune](https://arxiv.org/pdf/2412.13297)
   * [The Hottest Neptunes Orbit Metal-Rich Stars](https://arxiv.org/pdf/2412.13245)
