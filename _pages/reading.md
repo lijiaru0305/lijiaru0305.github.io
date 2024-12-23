@@ -11,6 +11,11 @@ redirect_from:
 
 The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank"><b>Dong's group meeting paper page</b></a>. (PS: right-click on the links to read in new tabs.)
 
+Week of Dec 23, 2024
+======
+* Mon Dec 23, 2024
+   * [Observational Signatures of Disk Winds in Protoplanetary Disks: Differentiating Magnetized and Photoevaporative Outflows With Fully Coupled Thermochemistry](https://arxiv.org/pdf/2412.15371)
+
 Week of Dec 16, 2024
 ======
 * Fri Dec 20, 2024
