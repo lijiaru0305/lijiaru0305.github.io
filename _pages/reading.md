@@ -13,6 +13,8 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Dec 23, 2024
 ======
+* Tue Dec 24, 2024
+   * [Correlation between planet formation rate and gas surface density: an analog of Kennicutt Schmidt law for planet formation](https://arxiv.org/pdf/2412.16278)
 * Mon Dec 23, 2024
    * [Observational Signatures of Disk Winds in Protoplanetary Disks: Differentiating Magnetized and Photoevaporative Outflows With Fully Coupled Thermochemistry](https://arxiv.org/pdf/2412.15371)
 
