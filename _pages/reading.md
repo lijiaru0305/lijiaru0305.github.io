@@ -11,6 +11,11 @@ redirect_from:
 
 The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank"><b>Dong's group meeting paper page</b></a>. (PS: right-click on the links to read in new tabs.)
 
+Week of Dec 30, 2024
+======
+* Mon Dec 30, 2024
+  * [Secular Perturbations from Exterior Giants Strongly Influence Gap Complexity in Peas-in-a-Pod Exoplanetary Systems](https://arxiv.org/pdf/2412.18661)
+
 Week of Dec 23, 2024
 ======
 * Tue Dec 24, 2024
