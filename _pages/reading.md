@@ -13,6 +13,7 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Dec 30, 2024
 ======
+* Tue Dec 31, 2024
 * Mon Dec 30, 2024
   * [Secular Perturbations from Exterior Giants Strongly Influence Gap Complexity in Peas-in-a-Pod Exoplanetary Systems](https://arxiv.org/pdf/2412.18661)
 
