@@ -13,6 +13,9 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Dec 30, 2024
 ======
+* Fri Jan 03, 2025
+  * [Exchange of meteorites between the terrestrial planets and the Moon](https://arxiv.org/pdf/2501.00134)
+  * [A Planet as the Possible Cause of the HD 181327 Debris Disk Asymmetry](https://arxiv.org/pdf/2501.01387)
 * Tue Dec 31, 2024
 * Mon Dec 30, 2024
   * [Secular Perturbations from Exterior Giants Strongly Influence Gap Complexity in Peas-in-a-Pod Exoplanetary Systems](https://arxiv.org/pdf/2412.18661)
