@@ -11,6 +11,13 @@ redirect_from:
 
 The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank"><b>Dong's group meeting paper page</b></a>. (PS: right-click on the links to read in new tabs.)
 
+Week of Jan 06, 2025
+======
+* Mon Jan 06, 2025
+  * [Sequencing Silicates in the IRS Debris Disk Catalog I: Methodology for Unsupervised Clustering](https://arxiv.org/pdf/2501.01484)
+  * [Millihertz Oscillations Near the Innermost Orbit of a Supermassive Black Hole](https://arxiv.org/pdf/2501.01581)
+  * [Exoplanet Detection via Differentiable Rendering](https://arxiv.org/pdf/2501.01912)
+
 Week of Dec 30, 2024
 ======
 * Fri Jan 03, 2025
