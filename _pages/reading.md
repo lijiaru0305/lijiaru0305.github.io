@@ -13,6 +13,9 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Jan 06, 2025
 ======
+* Tue Jan 07, 2025
+  * [Statistical trends in JWST transiting exoplanet atmospheres](https://arxiv.org/pdf/2501.02081)
+  * [Dynamics of the Beta Pictoris planetary system and possibility of an additional planet](https://arxiv.org/pdf/2501.03143)
 * Mon Jan 06, 2025
   * [Sequencing Silicates in the IRS Debris Disk Catalog I: Methodology for Unsupervised Clustering](https://arxiv.org/pdf/2501.01484)
   * [Millihertz Oscillations Near the Innermost Orbit of a Supermassive Black Hole](https://arxiv.org/pdf/2501.01581)
