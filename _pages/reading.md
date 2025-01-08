@@ -13,6 +13,10 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Jan 06, 2025
 ======
+* Tue Jan 08, 2025
+  * [Science Opportunities of Wet Extreme Mass-Ratio Inspirals](https://arxiv.org/pdf/2501.03252)
+  * [Stellar Tidal Disruptions by Newborn Neutron Stars or Black Holes: A Mechanism for Hydrogen-poor (Super)luminous Supernovae and Fast Blue Optical Transients](https://arxiv.org/pdf/2501.03316)
+  *  
 * Tue Jan 07, 2025
   * [Statistical trends in JWST transiting exoplanet atmospheres](https://arxiv.org/pdf/2501.02081)
   * [Dynamics of the Beta Pictoris planetary system and possibility of an additional planet](https://arxiv.org/pdf/2501.03143)
