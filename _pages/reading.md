@@ -16,7 +16,8 @@ Week of Jan 06, 2025
 * Tue Jan 08, 2025
   * [Science Opportunities of Wet Extreme Mass-Ratio Inspirals](https://arxiv.org/pdf/2501.03252)
   * [Stellar Tidal Disruptions by Newborn Neutron Stars or Black Holes: A Mechanism for Hydrogen-poor (Super)luminous Supernovae and Fast Blue Optical Transients](https://arxiv.org/pdf/2501.03316)
-  *  
+  * [Formation of super-Earths and mini-Neptunes from rings of planetesimals](https://arxiv.org/pdf/2501.03345)
+  * [ALMA chemical survey of disk-outflow sources in Taurus (ALMA-DOT) VII: the layered molecular outflow from HL Tau and its relationship with the ringed disk](https://arxiv.org/pdf/2501.03920)
 * Tue Jan 07, 2025
   * [Statistical trends in JWST transiting exoplanet atmospheres](https://arxiv.org/pdf/2501.02081)
   * [Dynamics of the Beta Pictoris planetary system and possibility of an additional planet](https://arxiv.org/pdf/2501.03143)
