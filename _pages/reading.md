@@ -13,14 +13,16 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Jan 06, 2025
 ======
-* Wed Jan 09, 2025
+* Fri Jan 10, 2025
+  * [Orbits of Six Triple Systems](https://arxiv.org/pdf/2501.04807)
+* Thu Jan 09, 2025
   * [Detecting Exomoons in Free-Floating-Planet Events from Space-based Microlensing Surveys](https://arxiv.org/pdf/2501.04083)
   * [Accretion disc winds imprint distinct signatures in the optical variability spectrum of black hole transients](https://arxiv.org/pdf/2501.04087)
   * [LAMOST Reveals Long-lived Protoplanetary Disks](https://arxiv.org/pdf/2501.04295)
   * [Confirmation of four hot Jupiters detected by TESS using follow-up spectroscopy from MaHPS at Wendelstein together with NEID and TRES](https://arxiv.org/pdf/2501.04383)
   * [The evolution of the flux-size relationship in protoplanetary discs by viscous evolution and radial pebble drift](https://arxiv.org/pdf/2501.04411)
   * [MINDS. The influence of outer dust disc structure on the volatile delivery to the inner disc](https://arxiv.org/pdf/2501.04587)
-* Tue Jan 08, 2025
+* Wed Jan 08, 2025
   * [Science Opportunities of Wet Extreme Mass-Ratio Inspirals](https://arxiv.org/pdf/2501.03252)
   * [Stellar Tidal Disruptions by Newborn Neutron Stars or Black Holes: A Mechanism for Hydrogen-poor (Super)luminous Supernovae and Fast Blue Optical Transients](https://arxiv.org/pdf/2501.03316)
   * [Formation of super-Earths and mini-Neptunes from rings of planetesimals](https://arxiv.org/pdf/2501.03345)
