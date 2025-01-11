@@ -15,6 +15,7 @@ Week of Jan 06, 2025
 ======
 * Fri Jan 10, 2025
   * [Orbits of Six Triple Systems](https://arxiv.org/pdf/2501.04807)
+  * [*On vertical variations of gas flow in protoplanetary disks and their impact on the transport of solids](https://www.aanda.org/articles/aa/pdf/2013/03/aa20812-12.pdf)
 * Thu Jan 09, 2025
   * [Detecting Exomoons in Free-Floating-Planet Events from Space-based Microlensing Surveys](https://arxiv.org/pdf/2501.04083)
   * [Accretion disc winds imprint distinct signatures in the optical variability spectrum of black hole transients](https://arxiv.org/pdf/2501.04087)
