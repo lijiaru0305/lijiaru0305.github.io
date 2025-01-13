@@ -11,6 +11,17 @@ redirect_from:
 
 The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank"><b>Dong's group meeting paper page</b></a>. (PS: right-click on the links to read in new tabs.)
 
+Week of Jan 13, 2025
+======
+* Mon Jan 13, 2025
+  * [Planet formation and long-term stability in a very eccentric stellar binary](https://arxiv.org/pdf/2501.05506)
+  * [The 2D pressure structure of the HD 163296 protoplanetary disk as probed by multi-molecular kinematics](https://arxiv.org/pdf/2501.05517)
+  * [Stellar obliquities of eight close-in gas giant exoplanets](https://arxiv.org/pdf/2501.05615)
+  * [Extreme exomoons in WASP-49 Ab: dynamics and detectability](https://arxiv.org/pdf/2501.05866)
+  * [Smuggling unnoticed: Towards a 2D view of water and dust delivery to the inner regions of protoplanetary discs](https://arxiv.org/pdf/2501.05881)
+  * [Dust processing in the terrestrial planet-forming region of the PDS 70 disk](https://arxiv.org/pdf/2501.05913)
+  * [Modeling the Impact of Moderate External UV Irradiation on Disk Chemistry](https://arxiv.org/pdf/2501.06156)
+
 Week of Jan 06, 2025
 ======
 * Fri Jan 10, 2025
