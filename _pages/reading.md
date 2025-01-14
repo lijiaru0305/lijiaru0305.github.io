@@ -13,6 +13,13 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Jan 13, 2025
 ======
+* Tue Jan 14, 2025
+  * [From Stability to Instability: Characterizing the Eccentricities of Multi-planet Systems in the California Kepler Survey as a Means of Studying Stability](https://arxiv.org/pdf/2501.06358)
+  * [Stellar Population and Metal Production in AGN Disks](https://arxiv.org/pdf/2501.06973)
+  * [Large Language Models: New Opportunities for Access to Science](https://arxiv.org/pdf/2501.07250)
+  * [Is planetary inward migration responsible for GJ 504's fast rotation and bright X-ray luminosity? New constraints from eROSITA](https://arxiv.org/pdf/2501.07402)
+  * [Dusty disk as a safe haven for terrestrial planets: Effect of back-reaction of solid material on gas](https://arxiv.org/pdf/2501.07403)
+  * [Three-dimensional transport of solids in a protoplanetary disk containing a growing giant planet](https://arxiv.org/pdf/2501.07520)
 * Mon Jan 13, 2025
   * [Planet formation and long-term stability in a very eccentric stellar binary](https://arxiv.org/pdf/2501.05506)
   * [The 2D pressure structure of the HD 163296 protoplanetary disk as probed by multi-molecular kinematics](https://arxiv.org/pdf/2501.05517)
