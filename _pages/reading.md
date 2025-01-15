@@ -14,6 +14,13 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 Week of Jan 13, 2025
 ======
 * Tue Jan 14, 2025
+  * [Protostellar disc structure and dynamics during star formation from cloud-scale initial conditions](https://arxiv.org/pdf/2501.07626)
+  * [The coexistence of the streaming instability and the vertical shear instability in protoplanetary disks: Scale-dependence of dust diffusion](https://arxiv.org/pdf/2501.07633)
+  * [High-Contrast Imaging: Hide and Seek with Exoplanets](https://arxiv.org/pdf/2501.07976)
+  * [Global 3-D Simulations of Magnetospheric Accretion: II. Hot Spots, Equilibrium Torque, Episodic Wind, and Midplane Outflow](https://arxiv.org/pdf/2501.08112)
+  * [Architecture Classification for Extrasolar Planetary Systems](https://arxiv.org/pdf/2501.08191)
+  * [Vertical CO surfaces as a probe for protoplanetary disk mass and carbon depletion](https://arxiv.org/pdf/2501.08294)
+* Tue Jan 14, 2025
   * [From Stability to Instability: Characterizing the Eccentricities of Multi-planet Systems in the California Kepler Survey as a Means of Studying Stability](https://arxiv.org/pdf/2501.06358)
   * [Stellar Population and Metal Production in AGN Disks](https://arxiv.org/pdf/2501.06973)
   * [Is planetary inward migration responsible for GJ 504's fast rotation and bright X-ray luminosity? New constraints from eROSITA](https://arxiv.org/pdf/2501.07402)
