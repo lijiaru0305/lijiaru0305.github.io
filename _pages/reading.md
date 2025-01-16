@@ -13,7 +13,12 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Jan 13, 2025
 ======
-* Tue Jan 14, 2025
+* Thu Jan 16, 2025
+  * [Complex Structure around a Circumstellar Disk Caused by Interchange Instability](https://arxiv.org/pdf/2501.08701)
+  * [Discovery of a years-delayed radio flare from an unusually slow-evolved tidal disruption event](https://arxiv.org/pdf/2501.08812)
+  * [Empirical Constraints on Tidal Dissipation in Exoplanet Host Stars](https://arxiv.org/pdf/2501.08992)
+  * [Prompt gravitational-wave mergers aided by gas in Active Galactic Nuclei: The hydrodynamics of binary-single black hole scatterings](https://arxiv.org/pdf/2501.09017)
+* Wed Jan 15, 2025
   * [Protostellar disc structure and dynamics during star formation from cloud-scale initial conditions](https://arxiv.org/pdf/2501.07626)
   * [The coexistence of the streaming instability and the vertical shear instability in protoplanetary disks: Scale-dependence of dust diffusion](https://arxiv.org/pdf/2501.07633)
   * [High-Contrast Imaging: Hide and Seek with Exoplanets](https://arxiv.org/pdf/2501.07976)
