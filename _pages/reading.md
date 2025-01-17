@@ -13,6 +13,11 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Jan 13, 2025
 ======
+* Fri Jan 17, 2025
+  * [REsolved ALMA and SMA Observations of Nearby Stars (REASONS): A population of 74 resolved planetesimal belts at millimetre wavelengths](https://arxiv.org/pdf/2501.09058)
+  * [Spin-Orbit Alignment in Merging Binary Black Holes Following Collisions with Massive Stars](https://arxiv.org/pdf/2501.09068)
+  * [A Pair of Dynamically Interacting Sub-Neptunes Around TOI-6054](https://arxiv.org/pdf/2501.09095)
+  * [Resolving the χeff-q correlation among Coalescing Binary Black Holes and Evidence for AGN-driven Hierarchical Mergers](https://arxiv.org/pdf/2501.09495)
 * Thu Jan 16, 2025
   * [Complex Structure around a Circumstellar Disk Caused by Interchange Instability](https://arxiv.org/pdf/2501.08701)
   * [Discovery of a years-delayed radio flare from an unusually slow-evolved tidal disruption event](https://arxiv.org/pdf/2501.08812)
