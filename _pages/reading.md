@@ -11,6 +11,14 @@ redirect_from:
 
 The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank"><b>Dong's group meeting paper page</b></a>. (PS: right-click on the links to read in new tabs.)
 
+Week of Jan 20, 2025
+======
+* Mon Jan 20, 2025
+  * [Dust dynamics in radially convective regions of protoplanetary disks](https://arxiv.org/pdf/2501.09792)
+  * [Similar-mass versus diverse-mass planetary systems in wind-driven accretion discs](https://arxiv.org/pdf/2501.09882)
+  * [Variabilities driven by satellite black hole migration in AGN discs](https://arxiv.org/pdf/2501.10095)
+  * [Discovery of Jet-Bubble-Disk Interaction: Jet Feedback on a Protoplanetary Disk via an Expanding Bubble in WSB 52](https://arxiv.org/pdf/2501.10244)
+
 Week of Jan 13, 2025
 ======
 * Fri Jan 17, 2025
