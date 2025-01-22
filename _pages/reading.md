@@ -13,6 +13,16 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Jan 20, 2025
 ======
+* Wed Jan 22, 2025
+  * [Stellar Stripping and Disruption in Disks around Supermassive Black Hole Binaries: Repeating nuclear transients prior to LISA events](https://arxiv.org/pdf/2501.10509)
+  * [The rapid formation of macromolecules in irradiated ice of protoplanetary disk dust traps](https://arxiv.org/pdf/2501.10512)
+  * [Near-circular orbits for planets around M/K-type stars with Earth-like sizes and installations](https://arxiv.org/pdf/2501.10571)
+  * [Simulation of Binary-Single Interactions in AGN Disk I: Gas-Enhanced Binary Orbital Hardening](https://arxiv.org/pdf/2501.10703)
+  * [Nonlinear analysis of gravitational instability in a 3D gaseous disc](https://arxiv.org/pdf/2501.11658)
+  * [Gravitational Wave Decoupling in Retrograde Circumbinary Disks](https://arxiv.org/pdf/2501.11679)
+  * [The centimeter emission from planet-forming disks in Taurus](https://arxiv.org/pdf/2501.11686)
+  * [Direct N-body simulations of NGC 6397 and its tidal tails](https://arxiv.org/pdf/2501.11806)
+  * [Orbital Stability of Hierarchical 3 and 4-Body Systems with Inclination: Results for Kepler-1625, 1708, and HD 23079](https://arxiv.org/pdf/2501.12258)
 * Mon Jan 20, 2025
   * [Dust dynamics in radially convective regions of protoplanetary disks](https://arxiv.org/pdf/2501.09792)
   * [Similar-mass versus diverse-mass planetary systems in wind-driven accretion discs](https://arxiv.org/pdf/2501.09882)
