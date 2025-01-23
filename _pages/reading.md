@@ -13,6 +13,11 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Jan 20, 2025
 ======
+* Thu Jan 23, 2025
+  * [Ripples spreading across the Galactic disc: Interplay of direct and indirect effects of the Sagittarius dwarf impact](https://arxiv.org/pdf/2501.12436)
+  * [Resonance Capture and Stability Analysis for Planet Pairs under Type I Disk Migration](https://arxiv.org/pdf/2501.12650)
+  * [The Impact of Bar-induced Non-Circular Motions on the Measurement of Galactic Rotation Curves](https://arxiv.org/pdf/2501.12760)
+  * [Dust production through collisions between small bodies: an application to the G-ring arc](https://arxiv.org/pdf/2501.12923)
 * Wed Jan 22, 2025
   * [Stellar Stripping and Disruption in Disks around Supermassive Black Hole Binaries: Repeating nuclear transients prior to LISA events](https://arxiv.org/pdf/2501.10509)
   * [The rapid formation of macromolecules in irradiated ice of protoplanetary disk dust traps](https://arxiv.org/pdf/2501.10512)
