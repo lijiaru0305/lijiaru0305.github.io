@@ -13,6 +13,12 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Jan 20, 2025
 ======
+* Fri Jan 24, 2025
+  * [Properties of Free Floating Planets Ejected through Planet-Planet Scattering](https://arxiv.org/pdf/2501.13166)
+  * [Formation of Giant Planets](https://arxiv.org/pdf/2501.13214)
+  * [Unstable accretion in TW Hya: 3D simulations and comparisons with observations](https://arxiv.org/pdf/2501.13294)
+  * [The vertical shear instability in protoplanetary discs as an outwardly travelling wave. I. Linear theory](https://arxiv.org/pdf/2501.13715)
+  * [Testing tidal theory using Gaia binaries: the red giant branch](https://arxiv.org/pdf/2501.13929)
 * Thu Jan 23, 2025
   * [Ripples spreading across the Galactic disc: Interplay of direct and indirect effects of the Sagittarius dwarf impact](https://arxiv.org/pdf/2501.12436)
   * [Resonance Capture and Stability Analysis for Planet Pairs under Type I Disk Migration](https://arxiv.org/pdf/2501.12650)
