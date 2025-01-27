@@ -11,6 +11,11 @@ redirect_from:
 
 The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank"><b>Dong's group meeting paper page</b></a>. (PS: right-click on the links to read in new tabs.)
 
+Week of Jan 27, 2025
+======
+* Mon Jan 27, 2025
+  * [Thermal Spectra of Warped and Broken Accretion Disks](https://arxiv.org/pdf/2501.14629)
+
 Week of Jan 20, 2025
 ======
 * Fri Jan 24, 2025
