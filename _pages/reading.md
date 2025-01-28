@@ -13,6 +13,14 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Jan 27, 2025
 ======
+* Tue Jan 28, 2025
+  * [Monte Carlo post-processing for radiation hydro simulations of accreting planets in protoplanetary disks](https://arxiv.org/pdf/2501.14858)
+  * [The influence of dust growth on the observational properties of circumplanetary discs](https://arxiv.org/pdf/2501.15521)
+  * [Effects of Thermodynamics on the Concurrent Accretion and Migration of Gas Giants in Protoplanetary Disks](https://arxiv.org/pdf/2501.15874)
+  * [Disks around young free-floating planetary-mass objects: Ultradeep Spitzer imaging of IC348](https://arxiv.org/pdf/2501.15930)
+  * [Thermal instability of thin disk in the presence of wind and corona](https://arxiv.org/pdf/2501.16087)
+  * [Quantifying the Impact of the Dust Torque on the Migration of Low-mass Planets II: The Role of Pebble Accretion in Planet Growth within a Global Planet Formation Model](https://arxiv.org/pdf/2501.16169)
+  * [A Possible Mass Ratio and Spin-Orbit Misalignment Correlation for Mergers of Binary Black Holes in Nuclear Star Clusters](https://arxiv.org/pdf/2501.16258)
 * Mon Jan 27, 2025
   * [Thermal Spectra of Warped and Broken Accretion Disks](https://arxiv.org/pdf/2501.14629)
 
