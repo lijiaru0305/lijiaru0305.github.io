@@ -13,6 +13,9 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Jan 27, 2025
 ======
+* Mon Jan 29, 2025
+  * [The Formation of Globular Clusters](https://arxiv.org/pdf/2501.16438)
+  * [Viscous circumbinary protoplanetary discs -- II. Disc effects on the binary orbit](https://arxiv.org/pdf/2501.17055)
 * Tue Jan 28, 2025
   * [Monte Carlo post-processing for radiation hydro simulations of accreting planets in protoplanetary disks](https://arxiv.org/pdf/2501.14858)
   * [The influence of dust growth on the observational properties of circumplanetary discs](https://arxiv.org/pdf/2501.15521)
