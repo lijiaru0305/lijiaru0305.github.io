@@ -13,7 +13,14 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Jan 27, 2025
 ======
-* Mon Jan 29, 2025
+* Thu Jan 30, 2025
+  * [Dynamics of small, constant size particles in a protoplanetary disk with an embedded protoplanet](https://arxiv.org/pdf/2501.17232)
+  * [Carving the Edges of the Rocky Planet Population](https://arxiv.org/pdf/2501.17241)
+  * [Carving Out the Inner Edge of the Period Ratio Distribution through Giant Impact](https://arxiv.org/pdf/2501.17359)
+  * [Velocity Structure of Circumstellar Environment around Class 0/I Protostars: Uncertainty in the Protostellar Mass Estimation Using Circumstellar Velocities](https://arxiv.org/pdf/2501.17492)
+  * [The growth of super-large pre-planetary pebbles to an impact erosion limit](https://arxiv.org/pdf/2501.17508)
+  * [Planetesimal formation in a pressure bump induced by infall](https://arxiv.org/pdf/2501.17857)
+* Wed Jan 29, 2025
   * [The Formation of Globular Clusters](https://arxiv.org/pdf/2501.16438)
   * [Viscous circumbinary protoplanetary discs -- II. Disc effects on the binary orbit](https://arxiv.org/pdf/2501.17055)
 * Tue Jan 28, 2025
