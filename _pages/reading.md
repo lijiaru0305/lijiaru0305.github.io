@@ -13,6 +13,10 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Jan 27, 2025
 ======
+* Fri Jan 31, 2025
+  * [Dust evolution by chemisputtering during protostellar formation](https://arxiv.org/pdf/2501.17937)
+  * [Characterising the multiple protostellar system VLA 1623-2417 with JWST, ALMA and VLA: outflow origins, dust growth and an unsettled disk](https://arxiv.org/pdf/2501.18348)
+  * [Strong clumping in global streaming instability simulations with a dusty fluid](https://arxiv.org/pdf/2501.18424)
 * Thu Jan 30, 2025
   * [Dynamics of small, constant size particles in a protoplanetary disk with an embedded protoplanet](https://arxiv.org/pdf/2501.17232)
   * [Carving the Edges of the Rocky Planet Population](https://arxiv.org/pdf/2501.17241)
