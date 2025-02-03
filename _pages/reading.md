@@ -11,7 +11,7 @@ redirect_from:
 
 The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank"><b>Dong's group meeting paper page</b></a>. (PS: right-click on the links to read in new tabs.)
 
-Week of Jan 27, 2025
+Week of Feb 03, 2025
 ======
 * Mon Feb 03, 2025
   * [Extracting the Temperature Analytically In Hydrodynamics Simulations with Gas and Radiation Pressure](https://arxiv.org/pdf/2501.18695)
