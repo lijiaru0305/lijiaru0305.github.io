@@ -13,6 +13,13 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Jan 27, 2025
 ======
+* Mon Feb 03, 2025
+  * [Extracting the Temperature Analytically In Hydrodynamics Simulations with Gas and Radiation Pressure](https://arxiv.org/pdf/2501.18695)
+  * [Updated Mass, Eccentricity, and Tidal Heating Constraints for the Earth-sized Planet LP 791-18 d](https://arxiv.org/pdf/2501.18700)
+  * [Circumstellar and circumbinary discs in multiple stellar systems](https://arxiv.org/pdf/2501.19249)
+    
+Week of Jan 27, 2025
+======
 * Fri Jan 31, 2025
   * [Dust evolution by chemisputtering during protostellar formation](https://arxiv.org/pdf/2501.17937)
   * [Characterising the multiple protostellar system VLA 1623-2417 with JWST, ALMA and VLA: outflow origins, dust growth and an unsettled disk](https://arxiv.org/pdf/2501.18348)
