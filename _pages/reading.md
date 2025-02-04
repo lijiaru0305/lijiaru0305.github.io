@@ -13,6 +13,12 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Feb 03, 2025
 ======
+* Tue Feb 04, 2025
+  * [TRAPPIST-1 d: Exo-Venus, Exo-Earth or Exo-Dead?](https://arxiv.org/pdf/2502.00132)
+  * [Magnetic disk winds in protoplanetary disks: Description of the model and impact on global disk evolution](https://arxiv.org/pdf/2502.00161)
+  * [Secondary spins of extreme mass ratio inspirals: Measurement precision and astrophysical applications](https://arxiv.org/pdf/2502.00856)
+  * [Coupling of dynamical tide and orbital motion](https://arxiv.org/pdf/2502.01302)
+  * [From pre-transit to post-eclipse: investigating the impact of 3D temperature, chemistry, and dynamics on high-resolution emission spectra of the ultra-hot Jupiter WASP-76b](https://arxiv.org/pdf/2502.01606)
 * Mon Feb 03, 2025
   * [Extracting the Temperature Analytically In Hydrodynamics Simulations with Gas and Radiation Pressure](https://arxiv.org/pdf/2501.18695)
   * [Updated Mass, Eccentricity, and Tidal Heating Constraints for the Earth-sized Planet LP 791-18 d](https://arxiv.org/pdf/2501.18700)
