@@ -13,6 +13,16 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Feb 03, 2025
 ======
+* Thu Feb 06, 2025
+  * [Radial migration in the Galactic disc driven by a slowing bar](https://arxiv.org/pdf/2502.02642)
+  * [Bar-spiral interaction produces radial migration and star formation bursts](https://arxiv.org/pdf/2502.02651)
+  * [Three-dimensional simulations of accretion disks in pre-CE systems](https://arxiv.org/pdf/2502.02933)
+* Wed Feb 05, 2025
+  * [Modelling a Transiting Circumbinary Disc in the HD98800 System](https://arxiv.org/pdf/2502.02376)
+  * [Dust supply to slose binary systems](https://arxiv.org/pdf/2502.02134)
+  * [Amplifying Resonant Repulsion with Inflated Young Planets, Overlooked Inner Planets, and Non-zero Initial Δ](https://arxiv.org/pdf/2502.01903)
+  * [Turbulent gas-rich discs at high redshift: origin of thick stellar discs through 3D 'baryon sloshing'](https://arxiv.org/pdf/2502.01895)
+  * [Resonant Locking Between Binary Systems Induced by Gravitational Waves](https://arxiv.org/pdf/2502.01733)
 * Tue Feb 04, 2025
   * [TRAPPIST-1 d: Exo-Venus, Exo-Earth or Exo-Dead?](https://arxiv.org/pdf/2502.00132)
   * [Magnetic disk winds in protoplanetary disks: Description of the model and impact on global disk evolution](https://arxiv.org/pdf/2502.00161)
