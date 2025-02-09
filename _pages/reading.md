@@ -13,6 +13,10 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Feb 03, 2025
 ======
+* Fri Feb 07, 2025
+  * [From Planetesimals to Dwarf Planets by Pebble Accretion](https://arxiv.org/pdf/2502.04016)
+  * [The Effects of Kinematic MHD on the Atmospheric Circulation of Eccentric Hot Jupiters](https://arxiv.org/pdf/2502.04169)
+  * [Probing Spin-Orbit Resonances with the Binary Black Hole Population](https://arxiv.org/pdf/2502.04278)
 * Thu Feb 06, 2025
   * [Radial migration in the Galactic disc driven by a slowing bar](https://arxiv.org/pdf/2502.02642)
   * [Bar-spiral interaction produces radial migration and star formation bursts](https://arxiv.org/pdf/2502.02651)
