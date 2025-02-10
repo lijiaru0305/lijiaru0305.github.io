@@ -11,6 +11,15 @@ redirect_from:
 
 The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank"><b>Dong's group meeting paper page</b></a>. (PS: right-click on the links to read in new tabs.)
 
+Week of Feb 10, 2025
+======
+* Mon Feb 10, 2025
+  * [Planet Masses, Radii, and Orbits from NASA's K2 Mission](https://arxiv.org/pdf/2502.04436)
+  * [Debris disks around M dwarfs: The Herschel DEBRIS survey](https://arxiv.org/pdf/2502.04441)
+  * [Compact protoplanetary discs can be produced by dead zones](https://arxiv.org/pdf/2502.04452)
+  * [Clusters of tribocharged dust aggregates as pebbles in protoplanetary disks](https://arxiv.org/pdf/2502.04926)
+  * [ALMA reveals thermal and non-thermal desorption of methanol ice in the HD 100546 protoplanetary disk](https://arxiv.org/pdf/2502.04957)
+
 Week of Feb 03, 2025
 ======
 * Fri Feb 07, 2025
