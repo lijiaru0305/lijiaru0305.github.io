@@ -13,6 +13,11 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Feb 10, 2025
 ======
+* Wed Feb 12, 2025
+  * [Resonances of compressible stars in precessing orbits around a spinning black hole](https://arxiv.org/pdf/2502.06998)
+* Tue Feb 11, 2025
+  * [Relativistic Gas Accretion onto Supermassive Black Hole Binaries from Inspiral through Merger](https://arxiv.org/pdf/2502.06389)
+  * [Impact of mass transfer on the orbital evolution of a white dwarf close to an intermediate-mass black hole](https://arxiv.org/pdf/2502.06160)
 * Mon Feb 10, 2025
   * [Planet Masses, Radii, and Orbits from NASA's K2 Mission](https://arxiv.org/pdf/2502.04436)
   * [Debris disks around M dwarfs: The Herschel DEBRIS survey](https://arxiv.org/pdf/2502.04441)
