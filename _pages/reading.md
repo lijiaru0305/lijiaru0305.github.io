@@ -13,6 +13,8 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Feb 10, 2025
 ======
+* Fri Feb 14, 2025
+  * [Constraining Axion Dark Matter with Galactic-Centre Resonant Dynamics](https://arxiv.org/pdf/2502.08709)
 * Thu Feb 13, 2025
   * [How to set up your first machine learning project in astronomy](https://arxiv.org/pdf/2502.08222)
 * Wed Feb 12, 2025
