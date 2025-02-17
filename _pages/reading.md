@@ -11,6 +11,13 @@ redirect_from:
 
 The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank"><b>Dong's group meeting paper page</b></a>. (PS: right-click on the links to read in new tabs.)
 
+Week of Feb 11, 2025
+======
+* Mon Feb 17, 2025
+  * [Gravitational Effects of a Small Primordial Black Hole Passing Through the Human Body](https://arxiv.org/pdf/2502.09734)
+  * [Structure of gaps induced by retrograde satellites embedded in accretion discs](https://arxiv.org/pdf/2502.09876)
+  * [A primordial radius valley as a consequence of planet formation](https://arxiv.org/pdf/2502.10186)
+
 Week of Feb 10, 2025
 ======
 * Fri Feb 14, 2025
