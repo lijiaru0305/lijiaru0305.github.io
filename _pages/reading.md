@@ -13,6 +13,9 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Feb 11, 2025
 ======
+* Tue Feb 18, 2025
+  * [The past, present and future of observations of externally irradiated disks](https://arxiv.org/pdf/2502.12255)
+  * [Vertical structure of an exoplanet's atmospheric jet stream](https://arxiv.org/pdf/2502.12261)
 * Mon Feb 17, 2025
   * [Gravitational Effects of a Small Primordial Black Hole Passing Through the Human Body](https://arxiv.org/pdf/2502.09734)
   * [Structure of gaps induced by retrograde satellites embedded in accretion discs](https://arxiv.org/pdf/2502.09876)
