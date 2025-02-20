@@ -13,6 +13,10 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Feb 11, 2025
 ======
+* Thu Feb 20, 2025
+  * [NGC 3259: A Signal for an Untapped Population of Slowly Accreting Intermediate-Mass Black Holes](https://arxiv.org/pdf/2502.13202)
+  * [Segregation in Nuclear Stellar Clusters: Rates and Mass Distributions of TDEs, QPEs, Plunges, and EMRIs](https://arxiv.org/pdf/2502.13209)
+  * [White Dwarf Variability](https://arxiv.org/pdf/2502.13258)
 * Tue Feb 18, 2025
   * [The past, present and future of observations of externally irradiated disks](https://arxiv.org/pdf/2502.12255)
   * [Vertical structure of an exoplanet's atmospheric jet stream](https://arxiv.org/pdf/2502.12261)
