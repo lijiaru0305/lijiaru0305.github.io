@@ -13,6 +13,10 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Feb 11, 2025
 ======
+* Fri Feb 21, 2025
+  * [Evidence for Variable Accretion onto PDS 70 c and Implications for Protoplanet Detections](https://arxiv.org/pdf/2502.14024)
+  * [Three Years of High-Contrast Imaging of the PDS 70 b and c Exoplanets at Hα with MagAO-X: Evidence of Strong Protoplanet Hα Variability and Circumplanetary Dust](https://arxiv.org/pdf/2502.14038)
+  * [The 4-400 GHz Survey for the 32 Class II Disks in the Taurus Molecular Cloud](https://arxiv.org/pdf/2502.14342)
 * Thu Feb 20, 2025
   * [NGC 3259: A Signal for an Untapped Population of Slowly Accreting Intermediate-Mass Black Holes](https://arxiv.org/pdf/2502.13202)
   * [Segregation in Nuclear Stellar Clusters: Rates and Mass Distributions of TDEs, QPEs, Plunges, and EMRIs](https://arxiv.org/pdf/2502.13209)
