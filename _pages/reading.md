@@ -11,7 +11,15 @@ redirect_from:
 
 The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank"><b>Dong's group meeting paper page</b></a>. (PS: right-click on the links to read in new tabs.)
 
-Week of Feb 11, 2025
+Week of Feb 24, 2025
+======
+* Mon Feb 24, 2025
+  * [Boosting the growth of intermediate-mass black holes: collisions with massive stars](https://arxiv.org/pdf/2502.14955)
+  * [3D Adiabatic Simulations of Binary Black Hole Formation in AGN](https://arxiv.org/pdf/2502.14959)
+  * [Gas infall via accretion disk feeding Cepheus A HW2](https://arxiv.org/pdf/2502.15070)
+  * [Evidence for a sub-jovian planet in the young TWA7 disk](https://arxiv.org/pdf/2502.15081)
+
+Week of Feb 17, 2025
 ======
 * Fri Feb 21, 2025
   * [Evidence for Variable Accretion onto PDS 70 c and Implications for Protoplanet Detections](https://arxiv.org/pdf/2502.14024)
