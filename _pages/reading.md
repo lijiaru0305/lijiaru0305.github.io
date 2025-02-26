@@ -13,11 +13,15 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Feb 24, 2025
 ======
+* Wed Feb 26, 2025
+  * [Viscous accretion and ejection from tori around black holes in general relativity](https://arxiv.org/pdf/2502.17566)
+  * [The Super-Puff WASP-193b is On A Well-Aligned Orbit](https://arxiv.org/pdf/2502.17610)
+  * [Properties of 'Lite' Intermediate-Mass Black Hole Candidates in LIGO-Virgo's Third Observing Run](https://arxiv.org/pdf/2502.17681)
+  * [Evolution of the near-core rotation frequency of 2,497 intermediate-mass stars from their dominant gravito-inertial mode](https://arxiv.org/pdf/2502.17692)
 * Tue Feb 25, 2025
   * [Sub-Millimeter Variability in the Envelope & Warped Protostellar Disk of the Class 0 Protostar HOPS 358](https://arxiv.org/pdf/2502.15887)
   * [New asteroid clusters and evidence of collisional fragmentation in the L5 Trojan cloud of Mars](https://arxiv.org/pdf/2502.16231)
   * [On the diversification and dissipation of protoplanetary disks](https://arxiv.org/pdf/2502.16347)
-
 * Mon Feb 24, 2025
   * [Boosting the growth of intermediate-mass black holes: collisions with massive stars](https://arxiv.org/pdf/2502.14955)
   * [3D Adiabatic Simulations of Binary Black Hole Formation in AGN](https://arxiv.org/pdf/2502.14959)
