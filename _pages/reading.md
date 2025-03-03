@@ -11,8 +11,22 @@ redirect_from:
 
 The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank"><b>Dong's group meeting paper page</b></a>. (PS: right-click on the links to read in new tabs.)
 
+Week of Mar 3, 2025
+======
+* Mon Mar 3, 2025
+  * [Orbital inclination of astrometric binaries and the dearth of face-on orbits in Gaia DR3 solutions](https://arxiv.org/pdf/2502.20553)
+  * [JWST/MIRI Study of the Enigmatic Mid-Infrared Rings in the Planetary Nebula NGC 1514](https://arxiv.org/pdf/2502.21281)
+
 Week of Feb 24, 2025
 ======
+* Fri Feb 28, 2025
+  * [Observational Signatures of a Previous Dynamical Instability in Multi-planet M-Dwarf Systems](https://arxiv.org/pdf/2502.20337)
+* Tue Feb 27, 2025
+  * [Limited hysteresis in the atmospheric dynamics of hot Jupiters](https://arxiv.org/pdf/2502.19394)
+  * [Towards Higher Order Accuracy in Self-Gravitating Hydrodynamics](https://arxiv.org/pdf/2502.18794)
+  * [Radiation Magnetohydrodynamic Simulation of sub-Eddington Circumbinary Disk around an Equal-mass Massive Black Hole Binary](https://arxiv.org/pdf/2502.18584)
+  * [Formation of filaments and feathers in disc galaxies: Is self-gravity enough?](https://arxiv.org/pdf/2502.18565)
+  * [Halting the migration of super-Earths by efficient gap opening in radiative, low viscosity disks](https://arxiv.org/pdf/2502.18564)
 * Wed Feb 26, 2025
   * [Viscous accretion and ejection from tori around black holes in general relativity](https://arxiv.org/pdf/2502.17566)
   * [The Super-Puff WASP-193b is On A Well-Aligned Orbit](https://arxiv.org/pdf/2502.17610)
