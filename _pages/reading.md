@@ -13,6 +13,11 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Mar 3, 2025
 ======
+* Tue Mar 4, 2025
+  * [Thermal Phase Curves in Hot Gas Giant Exoplanets Exhibit a Complex Dependence on Planetary Properties](https://arxiv.org/pdf/2503.00208)
+  * [Disk draining in LIGO progenitor black hole binaries and its significance to electromagnetic counterparts](https://arxiv.org/pdf/2503.00543)
+  * [Formation of Ultra-short-period Planet in Hot Jupiter Systems: Application to WASP-47](https://arxiv.org/pdf/2503.00872)
+  * [Dust coagulation assisted by streaming instability in protoplanetary disks](https://arxiv.org/pdf/2503.01137)
 * Mon Mar 3, 2025
   * [Orbital inclination of astrometric binaries and the dearth of face-on orbits in Gaia DR3 solutions](https://arxiv.org/pdf/2502.20553)
   * [JWST/MIRI Study of the Enigmatic Mid-Infrared Rings in the Planetary Nebula NGC 1514](https://arxiv.org/pdf/2502.21281)
