@@ -13,6 +13,11 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Mar 3, 2025
 ======
+* Wed Mar 54, 2025
+  * [Mapping the merging zone of late infall in the AB Aur planet-forming system](https://arxiv.org/pdf/2503.01957)
+  * [The stochastic nature of migration of disc instability protoplanets in three-dimensional hydrodynamical and MHD simulations of fragmenting discs](https://arxiv.org/pdf/2503.01973)
+  * [Formation of Be star decretion discs through boundary layer effects](https://arxiv.org/pdf/2503.02014)
+  * [Convective Overstability in Radially Global Protoplanetary Disks. II. Impact on planetesimal formation](https://arxiv.org/pdf/2503.02084)
 * Tue Mar 4, 2025
   * [Thermal Phase Curves in Hot Gas Giant Exoplanets Exhibit a Complex Dependence on Planetary Properties](https://arxiv.org/pdf/2503.00208)
   * [Disk draining in LIGO progenitor black hole binaries and its significance to electromagnetic counterparts](https://arxiv.org/pdf/2503.00543)
