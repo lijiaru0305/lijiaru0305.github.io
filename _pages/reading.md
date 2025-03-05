@@ -13,7 +13,7 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Mar 3, 2025
 ======
-* Wed Mar 54, 2025
+* Wed Mar 5, 2025
   * [Mapping the merging zone of late infall in the AB Aur planet-forming system](https://arxiv.org/pdf/2503.01957)
   * [The stochastic nature of migration of disc instability protoplanets in three-dimensional hydrodynamical and MHD simulations of fragmenting discs](https://arxiv.org/pdf/2503.01973)
   * [Formation of Be star decretion discs through boundary layer effects](https://arxiv.org/pdf/2503.02014)
