@@ -13,6 +13,10 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Mar 3, 2025
 ======
+* Thu Mar 6, 2025
+  * [High angular resolution evidence of dust traps from deep ALMA Band 3 observations of LkCa15](https://arxiv.org/pdf/2503.03336)
+  * [Can Hyperbolic Diffusion Help Explain Sharp Edges in the Gaps in Saturn's Rings?](https://arxiv.org/pdf/2503.03732)
+  * [Evidence for Primordial Alignment II: Insights from Stellar Obliquity Measurements for Hot Jupiters in Compact Multiplanet Systems](https://arxiv.org/pdf/2503.03745)
 * Wed Mar 5, 2025
   * [Mapping the merging zone of late infall in the AB Aur planet-forming system](https://arxiv.org/pdf/2503.01957)
   * [The stochastic nature of migration of disc instability protoplanets in three-dimensional hydrodynamical and MHD simulations of fragmenting discs](https://arxiv.org/pdf/2503.01973)
