@@ -13,6 +13,11 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Mar 3, 2025
 ======
+* Fri Mar 7, 2025
+  * [Late-Time Evolution of Magnetized Disks in Tidal Disruption Events](https://arxiv.org/pdf/2503.03811)
+  * [The Effect of Massive Trans-Neptunian Objects in the Long-term Evolution and Leaking Rates of Neptune's 3:2 and 2:1 Mean Motion Resonances](https://arxiv.org/pdf/2503.03900)
+  * [Extreme Mass-Ratio Inspirals in Active Galactic Nucleus Disks: The Role of Circumsingle Disks](https://arxiv.org/pdf/2503.04042)
+  * [HERACLES++: a multi-dimensional Eulerian code for exascale computing](https://arxiv.org/pdf/2503.04428)
 * Thu Mar 6, 2025
   * [High angular resolution evidence of dust traps from deep ALMA Band 3 observations of LkCa15](https://arxiv.org/pdf/2503.03336)
   * [Can Hyperbolic Diffusion Help Explain Sharp Edges in the Gaps in Saturn's Rings?](https://arxiv.org/pdf/2503.03732)
