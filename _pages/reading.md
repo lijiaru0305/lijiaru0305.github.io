@@ -11,6 +11,13 @@ redirect_from:
 
 The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank"><b>Dong's group meeting paper page</b></a>. (PS: right-click on the links to read in new tabs.)
 
+Week of Mar 10, 2025
+======
+* Tue Mar 11, 2025
+  * [Turbulence in protoplanetary disks: A systematic analysis of dust settling in 33 disks](https://arxiv.org/pdf/2503.05872)
+  * [Measuring the degree of clustering and diffusion of trans-Neptunian objects](https://arxiv.org/pdf/2503.07146)
+* Mon Mar 10, 2025
+
 Week of Mar 3, 2025
 ======
 * Fri Mar 7, 2025
