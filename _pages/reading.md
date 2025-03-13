@@ -13,6 +13,10 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Mar 10, 2025
 ======
+* Thu Mar 13, 2025
+* Wed Mar 12, 2025
+  * [The Case for Edge-On Binaries: An Avenue Toward Comparative Exoplanet Demographics](https://arxiv.org/pdf/2503.08583)
+  * [Precise Parameters from Bayesian SED Fitting Indicate Thermally-Driven Mass Loss Likely Driver of Radius Valley](https://arxiv.org/pdf/2503.08347)
 * Tue Mar 11, 2025
   * [Turbulence in protoplanetary disks: A systematic analysis of dust settling in 33 disks](https://arxiv.org/pdf/2503.05872)
   * [Measuring the degree of clustering and diffusion of trans-Neptunian objects](https://arxiv.org/pdf/2503.07146)
