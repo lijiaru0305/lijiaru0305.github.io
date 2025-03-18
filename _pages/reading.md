@@ -13,6 +13,19 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Mar 10, 2025
 ======
+* Tue Mar 18, 2025
+  * [Identifying intermediate mass binary black hole mergers in AGN disks using LISA](https://arxiv.org/pdf/2503.11721)
+  * [Gravitational instability and affine dynamics of gaseous astrophysical discs](https://arxiv.org/pdf/2503.12659)
+  * [The effect of stellar evolution on dispersal of protoplanetary disks: Disk fraction in star-forming regions](https://arxiv.org/pdf/2503.12807)
+* Mon Mar 17, 2025
+  * [Dust Clumping in Outer Protoplanetary Disks: the Interplay Among Four Instabilities](https://arxiv.org/pdf/2503.11076)
+  * [Signatures of Atmospheric Mass Loss and Planet Migration in the Time Evolution of Short-Period Transiting Exoplanets](https://arxiv.org/pdf/2503.10856)
+
+Week of Mar 10, 2025
+======
+* Fri Mar 14, 2025
+  * [Comparison of bar formation mechanisms II: does a tidally induced bar grow faster than an internally developed bar?](https://arxiv.org/pdf/2503.10014)
+  * [The Shamrock code: I- Smoothed Particle Hydrodynamics on GPUs](https://arxiv.org/pdf/2503.09713)
 * Thu Mar 13, 2025
 * Wed Mar 12, 2025
   * [The Case for Edge-On Binaries: An Avenue Toward Comparative Exoplanet Demographics](https://arxiv.org/pdf/2503.08583)
