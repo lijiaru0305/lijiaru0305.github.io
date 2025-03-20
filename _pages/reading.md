@@ -13,6 +13,11 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Mar 10, 2025
 ======
+* Thu Mar 20, 2025
+  * [Orbital eccentricity in a neutron star - black hole binary](https://arxiv.org/pdf/2503.15393)
+* Wed Mar 19, 2025
+  * [Gravitational instability in protoplanetary disk with cooling: 2D global analysis](https://arxiv.org/pdf/2503.13811)
+  * [Planetesimal formation via the streaming instability in simulations of infall dominated young disks](https://arxiv.org/pdf/2503.13606)
 * Tue Mar 18, 2025
   * [Identifying intermediate mass binary black hole mergers in AGN disks using LISA](https://arxiv.org/pdf/2503.11721)
   * [Gravitational instability and affine dynamics of gaseous astrophysical discs](https://arxiv.org/pdf/2503.12659)
