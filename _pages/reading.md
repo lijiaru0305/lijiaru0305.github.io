@@ -13,6 +13,16 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Mar 10, 2025
 ======
+* Mon Mar 24, 2025
+  * [AREPO-IDORT: Implicit Discrete Ordinates Radiation Transport for Radiation Magnetohydrodynamics on an Unstructured Moving Mesh](https://arxiv.org/pdf/2503.16627)
+  * [A multi-messenger hierarchical triple merger gravitational-wave event pair GW190514-GW190521 inside AGN J124942.3 + 344929](https://arxiv.org/pdf/2503.16864)
+  * [On the road to the radius valley: distinguishing between gas dwarfs and water worlds with young transiting exoplanets](https://arxiv.org/pdf/2503.17364)
+    
+Week of Mar 10, 2025
+======
+* Fri Mar 21, 2025
+  * [Detection for Intermediate-mass Binary Black Holes in Population III Star Clusters with TianQin](https://arxiv.org/pdf/2503.15907)
+  * [The Ambiguous Age and Tidal History for the Ultra-Hot Jupiter TOI-1937Ab](https://arxiv.org/pdf/2503.15802)
 * Thu Mar 20, 2025
   * [Orbital eccentricity in a neutron star - black hole binary](https://arxiv.org/pdf/2503.15393)
 * Wed Mar 19, 2025
