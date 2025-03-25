@@ -13,6 +13,9 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Mar 10, 2025
 ======
+* Tue Mar 25, 2025
+  * [Influence of jet depth on the equatorial jet direction on giant planets](https://arxiv.org/pdf/2503.17828)
+  * [Non-orbital particle trapping in binary black holes through dynamic stability](https://arxiv.org/pdf/2503.17841)
 * Mon Mar 24, 2025
   * [AREPO-IDORT: Implicit Discrete Ordinates Radiation Transport for Radiation Magnetohydrodynamics on an Unstructured Moving Mesh](https://arxiv.org/pdf/2503.16627)
   * [A multi-messenger hierarchical triple merger gravitational-wave event pair GW190514-GW190521 inside AGN J124942.3 + 344929](https://arxiv.org/pdf/2503.16864)
