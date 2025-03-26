@@ -13,6 +13,13 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Mar 10, 2025
 ======
+* Wed Mar 26, 2025
+  * [Discovery of Quasi-periodic Eruptions in the Tidal Disruption Event and Extreme Coronal Line Emitter AT2022upj: implications for the QPE/TDE fraction and a connection to ECLEs](https://arxiv.org/pdf/2503.19013)
+  * [What's kickin' in partial tidal disruption events?](https://arxiv.org/pdf/2503.19018)
+  * [Leaky Dust Traps in Planet-Embedded Protoplanetary Disks](https://arxiv.org/pdf/2503.19026)
+  * [Impact of MHD disk wind on early evolutionary stage of protoplanetary disk and dust growth](https://arxiv.org/pdf/2503.19219)
+  * [A high-resolution survey of protoplanetary disks in Lupus and the nature of compact disks](https://arxiv.org/pdf/2503.19504)
+  * [Compositional Outcomes of Earth Formation from a Narrow Ring](https://arxiv.org/pdf/2503.19526)
 * Tue Mar 25, 2025
   * [Influence of jet depth on the equatorial jet direction on giant planets](https://arxiv.org/pdf/2503.17828)
   * [Non-orbital particle trapping in binary black holes through dynamic stability](https://arxiv.org/pdf/2503.17841)
