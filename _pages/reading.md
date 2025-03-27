@@ -13,6 +13,12 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Mar 10, 2025
 ======
+* Thu Mar 27, 2025
+  * [Kozai Lidov Cycles = Simple Pendulum](https://arxiv.org/pdf/2503.19972)
+  * [TOI-2005b: An Eccentric Warm Jupiter in Spin-Orbit Alignment](https://arxiv.org/pdf/2503.20069)
+  * [JWST/NIRCam Coronagraphic Search for Hidden Planets in the HD~163296 Protoplanetary Disk](https://arxiv.org/pdf/2503.20132)
+  * [Misalignment of the Lense-Thirring precession by an accretion torque](https://arxiv.org/pdf/2503.20577)
+  * [Simulation of the Free Fall of a Gas Stream on a Protoplanetary Disk](https://arxiv.org/pdf/2503.20606)
 * Wed Mar 26, 2025
   * [Discovery of Quasi-periodic Eruptions in the Tidal Disruption Event and Extreme Coronal Line Emitter AT2022upj: implications for the QPE/TDE fraction and a connection to ECLEs](https://arxiv.org/pdf/2503.19013)
   * [What's kickin' in partial tidal disruption events?](https://arxiv.org/pdf/2503.19018)
