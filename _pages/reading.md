@@ -11,6 +11,14 @@ redirect_from:
 
 The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank"><b>Dong's group meeting paper page</b></a>. (PS: right-click on the links to read in new tabs.)
 
+Week of Apr 7 and 14, 2025
+======
+  * [Oligarchic growth of protoplanets in planetesimal rings](https://arxiv.org/pdf/2504.05667)
+  * [Investigating the eccentricity distribution of transiting, long-period giant planets](https://arxiv.org/pdf/2504.05480)
+  * [Asymmetric Signatures of Warps in Edge-on Disks](https://arxiv.org/pdf/2504.05399)
+  * [Bifurcated Evolutionary Pathways in Multi-planet Systems Driven by Misaligned Protoplanetary Disks](https://arxiv.org/pdf/2504.08436)
+  * [Thermally driven spontaneous dust accumulation in the inner regions of protoplanetary disks](https://arxiv.org/pdf/2504.09166)
+
 Week of Mar 10, 2025
 ======
 * Thu Mar 27, 2025
