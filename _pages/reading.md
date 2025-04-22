@@ -11,6 +11,10 @@ redirect_from:
 
 The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank"><b>Dong's group meeting paper page</b></a>. (PS: right-click on the links to read in new tabs.)
 
+Week of Apr 21, 2025
+======
+  * [Turbulence Inhibits Planetesimal Formation in Class 0/I Disks Subject to Infall](https://arxiv.org/pdf/2504.13246)
+
 Week of Apr 7 and 14, 2025
 ======
   * [Oligarchic growth of protoplanets in planetesimal rings](https://arxiv.org/pdf/2504.05667)
