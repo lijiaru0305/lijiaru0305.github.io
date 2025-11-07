@@ -11,9 +11,26 @@ redirect_from:
 
 The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank"><b>Dong's group meeting paper page</b></a>. (PS: right-click on the links to read in new tabs.)
 
+Week of Nov 3, 2025
+======
+  * [A substellar flyby that shaped the orbits of the giant planets](https://arxiv.org/pdf/2412.04583)
+  * [Higher-Order Mean-Motion Resonances Can Form in Type-I Disk Migration](https://arxiv.org/pdf/2504.12596)
+  * [Self-gravity in thin protoplanetary discs: 1. The smoothing-length approximation versus the exact self-gravity kernel](https://arxiv.org/pdf/2506.10812)
+  * [Dust back-reaction on gas around planets modifies the cold thermal torque](https://arxiv.org/pdf/2511.01973)
+  * [Dynamical evolution of stellar binaries in galactic centers](https://arxiv.org/pdf/2511.02905)
+  * [Formation of Free-Floating Planets via Ejection: Population Synthesis with a Realistic IMF and Comparison to Microlensing Observations](https://arxiv.org/pdf/2511.03246)
+  * [Limiting Eccentricity in Restricted Hierarchical Three-Body Systems with Short-Range Forces](https://arxiv.org/pdf/2511.04146)
+  * [Early evidence for isotropic planetary obliquities in young super-Jupiter systems](https://arxiv.org/pdf/2511.04091)
+  * [On the Exoplanet Yield of Gaia Astrometry](https://arxiv.org/pdf/2511.04673)
+  * 
+
 Week of Apr 21, 2025
 ======
   * [Turbulence Inhibits Planetesimal Formation in Class 0/I Disks Subject to Infall](https://arxiv.org/pdf/2504.13246)
+  * [Spirals, rings, and vortices shaped by shadows in protoplanetary disks: from radiative hydrodynamical simulations to observable signatures](https://arxiv.org/pdf/2410.13932)
+  * [Insights from Analytical Theory of Eccentric Circumbinary Disks](https://arxiv.org/pdf/2504.17658)
+  * [Global Simulations of Gravitational Instability in Protostellar Disks with Full Radiation Transport II. Locality of Gravitoturbulence, Clumpy Spirals, and Implications for Observable Substructure](https://arxiv.org/pdf/2504.18751)
+  * 
 
 Week of Apr 7 and 14, 2025
 ======
