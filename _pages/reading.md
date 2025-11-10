@@ -11,6 +11,10 @@ redirect_from:
 
 The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank"><b>Dong's group meeting paper page</b></a>. (PS: right-click on the links to read in new tabs.)
 
+Week of Nov 10, 2025
+======
+  * []
+
 Week of Nov 3, 2025
 ======
   * [A substellar flyby that shaped the orbits of the giant planets](https://arxiv.org/pdf/2412.04583)
