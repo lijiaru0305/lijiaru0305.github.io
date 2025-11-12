@@ -13,7 +13,10 @@ The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank
 
 Week of Nov 10, 2025
 ======
-  * []
+  * [Fill the gaps: continuous in time interpolation of fluid dynamical simulations](https://arxiv.org/pdf/2511.08239)
+  * [General Implicit Runge-Kutta Integrators for Multifluid Gas-Dust Aerodynamic Drag](https://arxiv.org/pdf/2511.07562)
+  * [Observational evidence for a possible link between PAH emission and dust trap locations in protoplanetary disks](https://arxiv.org/pdf/2511.06935)
+  * [Dust distribution in circumstellar disks harboring multi-planet systems: I. Sub-thermal mass planets](https://arxiv.org/pdf/2511.06050)
 
 Week of Nov 3, 2025
 ======
