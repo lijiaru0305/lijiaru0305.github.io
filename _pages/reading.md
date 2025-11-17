@@ -17,6 +17,7 @@ Week of Nov 17, 2025
   * [Formation and disruption of resonant chains of super-Earths: Secular perturbations from outer eccentric embryos](https://arxiv.org/pdf/2511.11328)
   * [Indirect forces in disc-planet interaction](https://arxiv.org/pdf/2511.10745)
   * [An Analytical Model for the Eccentricity Cascade: Hot Jupiter Formation via S-type Instability](https://arxiv.org/pdf/2511.10726)
+  * [Probing AGN Disks Density Profiles through Gravitational Wave Observations](https://arxiv.org/pdf/2511.10204)
   * 
 
 Week of Nov 10, 2025
