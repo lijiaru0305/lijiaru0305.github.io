@@ -11,12 +11,25 @@ redirect_from:
 
 The page is to mimic <a href="https://donglai6.github.io/gp.html" target="_blank"><b>Dong's group meeting paper page</b></a>. (PS: right-click on the links to read in new tabs.)
 
+Week of Nov 17, 2025
+======
+  * [Shadow-Induced Warps in Protoplanetary disks](https://arxiv.org/pdf/2511.11358)
+  * [Formation and disruption of resonant chains of super-Earths: Secular perturbations from outer eccentric embryos](https://arxiv.org/pdf/2511.11328)
+  * [Indirect forces in disc-planet interaction](https://arxiv.org/pdf/2511.10745)
+  * [An Analytical Model for the Eccentricity Cascade: Hot Jupiter Formation via S-type Instability](https://arxiv.org/pdf/2511.10726)
+  * 
+
 Week of Nov 10, 2025
 ======
   * [Fill the gaps: continuous in time interpolation of fluid dynamical simulations](https://arxiv.org/pdf/2511.08239)
   * [General Implicit Runge-Kutta Integrators for Multifluid Gas-Dust Aerodynamic Drag](https://arxiv.org/pdf/2511.07562)
   * [Observational evidence for a possible link between PAH emission and dust trap locations in protoplanetary disks](https://arxiv.org/pdf/2511.06935)
   * [Dust distribution in circumstellar disks harboring multi-planet systems: I. Sub-thermal mass planets](https://arxiv.org/pdf/2511.06050)
+  * [The MATISSE view of the inner region of the RY Tau protoplanetary disk](https://arxiv.org/pdf/2511.08309)
+  * [True spin-orbit obliquities distribution: data-driven confirmation of no clustering of misaligned planets](https://arxiv.org/pdf/2511.10313)
+  * [Planetary architectures under the influence of a stellar binary](https://arxiv.org/pdf/2511.09676)
+  * [Changing-Look AGN Powered By Disk Tearing](https://arxiv.org/pdf/2511.09626)
+  * 
 
 Week of Nov 3, 2025
 ======
