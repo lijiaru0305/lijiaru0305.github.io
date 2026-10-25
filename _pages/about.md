@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a postdoctoral fellow at [CIERA](https://ciera.northwestern.edu/), Northwestern University. 
+I am a Postdoctoral Research Associate in the Astrophysics Group at the [Department of Applied Mathematics and Theoretical Physics](https://www.damtp.cam.ac.uk/damtp), University of Cambridge. My research interests include exoplanetary dynamics, protoplanetary disks, and the dynamical evolution of black holes embedded in active galactic nucleus disks. I primarily investigate these topics through *N*-body and hydrodynamical simulations, complemented by analytical modeling.
 
-My research interests include exoplanetary dynamics, protoplanetary disks, and the dynamical evolution of embedded black holes in active galactic nucleus disks. I primarily study theories in these topics using <i>N</i>-body and hydrodynamics simulations. Please check out the [Research page](https://lijiaru0305.github.io/publications/) for more details.
+I received my bachelor's degree from the University of Toronto in 2017, where I worked with Professor Artur Izmaylov on quantum chemistry. I subsequently earned my Ph.D. in Astronomy from Cornell University in 2023 under the supervision of Professor Dong Lai. During my graduate studies, I also spent two years at Los Alamos National Laboratory as a CSES Student Fellow. Before joining Cambridge, I was a [CIERA](https://ciera.northwestern.edu/) Postdoctoral Fellow at Northwestern University.
 
-I received my Ph.D. in 2023 from Cornell University, where I was a student of Professor Dong Lai. I also spent two years at Los Alamos National Laboratory as a CSES student fellow. I received my bachelor's degree in 2017 from the University of Toronto at Scarborough, where I worked with Prof. Artur Izmaylov on quantum chemistry. 
-
-Before I started my university studies, I was born and raised in Hangzhou, China. 
+Since moving abroad to pursue my scientific adventures, I have lived and worked in five cities across three countries. Before embarking on this journey, I was born and raised in my beautiful hometown of [Hangzhou](https://en.wikipedia.org/wiki/Hangzhou), China.
 
 
