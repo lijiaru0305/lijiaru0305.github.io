@@ -59,6 +59,17 @@ right year group, and edit it. Two details matter:
 - `data-topic="..."` — one or more of `exoplanets`, `disks`, `agn`, `other`.
   This drives the topic filter buttons.
 
+## Link convention
+
+Links to other sites open in a new tab and carry `rel="noopener noreferrer"`:
+
+```html
+<a href="https://arxiv.org/abs/..." target="_blank" rel="noopener noreferrer">arXiv</a>
+```
+
+Links within the site (other pages, PDFs and movies under `files/`) open in the
+same tab. Keep this consistent when adding entries.
+
 ## Adding a talk
 
 Open `talks.html` and copy an existing `<article class="talk">` block.
