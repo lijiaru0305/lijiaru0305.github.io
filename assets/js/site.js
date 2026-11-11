@@ -45,4 +45,18 @@
       });
     });
   }
+
+  /* Home page looping simulation: respect reduced-motion, click to pause/play */
+  var loop = document.getElementById("hero-loop");
+  if (loop) {
+    var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)");
+    if (reduce && reduce.matches) {
+      loop.removeAttribute("autoplay");
+      loop.pause();
+      loop.setAttribute("controls", "");
+    }
+    loop.addEventListener("click", function () {
+      if (loop.paused) { loop.play(); } else { loop.pause(); }
+    });
+  }
 })();
