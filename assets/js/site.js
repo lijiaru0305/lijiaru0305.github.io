@@ -47,16 +47,19 @@
   }
 
   /* Home page looping simulation: respect reduced-motion, click to pause/play */
-  var loop = document.getElementById("hero-loop");
-  if (loop) {
-    var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)");
-    if (reduce && reduce.matches) {
-      loop.removeAttribute("autoplay");
-      loop.pause();
-      loop.setAttribute("controls", "");
-    }
-    loop.addEventListener("click", function () {
-      if (loop.paused) { loop.play(); } else { loop.pause(); }
+  var loops = document.querySelectorAll("video.hero-loop");
+  if (loops.length) {
+    var mq = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)");
+    var reduce = mq && mq.matches;
+    Array.prototype.forEach.call(loops, function (v) {
+      if (reduce) {
+        v.removeAttribute("autoplay");
+        v.pause();
+        v.setAttribute("controls", "");
+      }
+      v.addEventListener("click", function () {
+        if (v.paused) { v.play(); } else { v.pause(); }
+      });
     });
   }
 })();
