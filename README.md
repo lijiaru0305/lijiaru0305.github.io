@@ -61,14 +61,16 @@ right year group, and edit it. Two details matter:
 
 ## Link convention
 
-Links to other sites open in a new tab and carry `rel="noopener noreferrer"`:
+Anything that takes the reader away from a page -- another site, or a PDF or
+movie under `files/` -- opens in a new tab and carries `rel="noopener noreferrer"`:
 
 ```html
 <a href="https://arxiv.org/abs/..." target="_blank" rel="noopener noreferrer">arXiv</a>
+<a href="files/talk-BHCE-DDA-2022.pdf" target="_blank" rel="noopener noreferrer">Slides</a>
 ```
 
-Links within the site (other pages, PDFs and movies under `files/`) open in the
-same tab. Keep this consistent when adding entries.
+Links between pages of the site, in-page `#anchor` links, and the `mailto:`
+links open in the same tab. Keep this consistent when adding entries.
 
 ## Adding a talk
 
