@@ -10,7 +10,7 @@ index.html          About / landing page
 research.html       Research themes + simulation movies
 publications.html   All papers, with abstracts and topic filtering
 talks.html          Talks and posters
-teaching.html       Teaching & mentoring (needs content)
+teaching.html       Teaching, mentoring and TA history
 notes.html          Notes index (no entries yet)
 cv.html             Web CV
 404.html            Not-found page
@@ -56,8 +56,13 @@ Open `publications.html`, copy an existing `<article class="pub">` block into th
 right year group, and edit it. Two details matter:
 
 - `id="pub-XXXX"` — the anchor that `research.html` links to.
-- `data-topic="..."` — one or more of `exoplanets`, `disks`, `agn`, `other`.
-  This drives the topic filter buttons.
+- `data-topic="..."` — one or more of `exoplanets`, `disks`, `agn`, `other`
+  (chemical physics), `ml` (machine learning). This drives the filter buttons.
+
+The site's factual content (positions, dates, awards, service, mentoring,
+publication list) is kept in sync with `files/CV_Jiaru_Li.pdf`. When the CV is
+updated, re-check `cv.html`, `publications.html`, `teaching.html`, `talks.html`
+and the news list on `index.html`.
 
 ## Link convention
 
