@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Research — Jiaru Li</title>
+<meta name="description" content="Research highlights: planetary system dynamics, protoplanetary disks, and black holes in AGN disks, with simulation movies.">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/site.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="index.html">Jiaru Li</a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="site-nav">Menu</button>
+    <nav id="site-nav" class="site-nav" aria-label="Main">
+      <a href="index.html">About</a>
+      <a href="research.html" aria-current="page">Research</a>
+      <a href="publications.html">Publications</a>
+      <a href="talks.html">Talks</a>
+      <a href="teaching.html">Teaching</a>
+      <a href="notes.html">Notes</a>
+      <a href="cv.html">CV</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <section class="section">
+    <div class="container">
+      <p class="eyebrow">Research</p>
+      <h1>Gravity, gas, and the shapes of orbits</h1>
+      <div class="prose lede">
+        <p>Planetary systems and the disks they are born in are governed by the same tension: gravitational dynamics that wants to be clean and Keplerian, and gas that damps, drags, and torques it into something else. Most of my work is about what happens in between — studied with <i>N</i>-body integrations, grid-based and smoothed-particle hydrodynamics, and perturbation theory.</p>
+        <p class="small muted">The movies below are from my own simulations. Click to play; they are not preloaded.</p>
+      </div>
+    </div>
+  </section>
+
+  <div class="container">
+
+    <!-- ============ Theme 1 ============ -->
+    <section class="theme" id="planetary-dynamics">
+      <h2>Dynamics of planetary systems</h2>
+      <div class="prose">
+        <p>When planets are packed too closely, their orbits go unstable — and what follows writes itself into the architecture we eventually observe. I study the outcomes of that instability: whether planets collide or get ejected, what the survivors look like, and what the merger products inherit.</p>
+        <p>Planetary collisions turn out to be a good way to make rapidly rotating planets with a broad spread of obliquities, and the distributions of spin and obliquity follow simple analytic forms. Whether a close encounter ends in a merger or an ejection depends on fluid effects that a &ldquo;sticky-sphere&rdquo; prescription misses entirely: resolving the encounter hydrodynamically roughly doubles the effective collision radius and shifts the merger-to-ejection branching ratio substantially. Gas can also hold instability off altogether — frictional damping from a disk stabilises a system when the damping timescale is short compared with the instability growth time.</p>
+        <p>More recently I have been asking how compact systems escape the resonant chains they are thought to form in. One answer: intermittent flybys of planetesimals from a distant reservoir, which disrupt mean-motion resonances and leave systems prone to close encounters within 100 Myr.</p>
+        <p class="theme-papers">Related papers:
+          <a href="publications.html#pub-LOR2025">Li, O'Connor &amp; Rasio (2025)</a> ·
+          <a href="publications.html#pub-WLL2025">Wang, Li &amp; Lai (2025)</a> ·
+          <a href="publications.html#pub-LRL2024">Li, Rodet &amp; Lai (2024)</a> ·
+          <a href="publications.html#pub-LLAP2021">Li et al. (2021)</a> ·
+          <a href="publications.html#pub-LL2020">Li &amp; Lai (2020)</a>
+        </p>
+      </div>
+    </section>
+
+    <!-- ============ Theme 2 ============ -->
+    <section class="theme" id="protoplanetary-disks">
+      <h2>Protoplanetary disks: eccentricity, rings, and warps</h2>
+      <div class="prose">
+        <p>Rings in protoplanetary disks are usually read as the signature of an embedded planet. They need not be. A gravitationally stable disk that cools rapidly can trap a slowly precessing, one-armed spiral mode that goes unstable — an eccentric cooling instability — and the non-uniform mass transport required to excite that spiral generically produces multiple concentric gas rings, with no planet anywhere.</p>
+        <p>That same disk eccentricity has consequences for planets that <em>are</em> present. As a massive, truncated, eccentric disk disperses, an inner planet sweeps through a secular resonance where its apsidal precession rate matches the disk's. Crossing that resonance pumps the planet's eccentricity to large values — 0.1 to 0.6 — even when the disk itself is barely eccentric (<i>e</i> &lesssim; 0.05).</p>
+        <p>My current work concerns warped disks: what steady-state structures they settle into, how they behave once the warp is nonlinear (torque saturation, vertical &ldquo;bouncing&rdquo; of gas, enhanced accretion), and the conditions under which a warp breaks the disk into misaligned pieces.</p>
+        <p class="theme-papers">Related papers:
+          <a href="publications.html#pub-LL-warps">Li &amp; Lithwick</a> ·
+          <a href="publications.html#pub-LL2023">Li &amp; Lai (2023)</a> ·
+          <a href="publications.html#pub-LDLL2021">Li, Dempsey, Li &amp; Li (2021)</a>
+        </p>
+      </div>
+
+      <div class="figure-grid">
+        <figure class="sim">
+          <video controls preload="none" playsinline poster="images/posters/file_EMI.jpg">
+            <source src="files/file_EMI.mp4" type="video/mp4">
+            Your browser does not support embedded video. <a href="files/file_EMI.mp4">Download the movie</a>.
+          </video>
+          <figcaption><b>Eccentric instability in a cooling disk.</b> Surface density in the orbital plane (left) and unwrapped in radius and azimuth (right), showing the one-armed eccentric mode growing and sharpening into a ring.</figcaption>
+        </figure>
+
+        <figure class="sim">
+          <video controls preload="none" playsinline poster="images/posters/file_Emode_fiducial.jpg">
+            <source src="files/file_Emode_fiducial.mp4" type="video/mp4">
+            Your browser does not support embedded video. <a href="files/file_Emode_fiducial.mp4">Download the movie</a>.
+          </video>
+          <figcaption><b>Ring formation, fiducial run.</b> The same diagnostics later in the evolution: the instability has saturated and the disk has organised itself into several long-lived concentric rings. A <a href="files/file_Emode_fiducial_slow.mp4">slower version</a> of this movie is also available.</figcaption>
+        </figure>
+
+        <figure class="sim">
+          <video controls preload="none" playsinline poster="images/posters/file_disk_mode.jpg">
+            <source src="files/file_disk_mode.mp4" type="video/mp4">
+            Your browser does not support embedded video. <a href="files/file_disk_mode.mp4">Download the movie</a>.
+          </video>
+          <figcaption><b>Structure of the eccentric mode.</b> Top: perturbations in surface density and in the radial and azimuthal velocities. Bottom: the radial profiles of the eccentricity and its argument, showing the mode precessing coherently.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <!-- ============ Theme 3 ============ -->
+    <section class="theme" id="agn-disks">
+      <h2>Black holes in AGN disks</h2>
+      <div class="prose">
+        <p>If stellar-mass black holes are embedded in the accretion disk of an active galactic nucleus, that disk may be an efficient factory for the binaries LIGO/Virgo detects. Whether it actually is depends on details that are easy to get wrong in simulation.</p>
+        <p>Gravitational softening is one of them: soften the binary too much and prograde black hole binaries appear to harden, while resolving the spiral structure in the circum-single disks reveals that they in fact expand until the tidal field of the central AGN disrupts them. Thermodynamics is another — when the minidisks around each black hole are heated to roughly three times the background temperature, the spirals weaken, their positive torque fades, and the binary's orbital evolution reverses from expansion to contraction.</p>
+        <p>I have also followed the step before the binary exists. Black holes migrating into close-packed orbits around the supermassive black hole undergo recurring close encounters; in rare very close passages, gravitational-wave emission or a gas post-collision drag can leave the pair bound. Binaries formed this way tend to be compact, eccentric, and retrograde — and they enter the LIGO band with high eccentricity and a broad spread of inclinations relative to the original disk.</p>
+        <p class="theme-papers">Related papers:
+          <a href="publications.html#pub-QLD2024">Qian, Li &amp; Lai (2024)</a> ·
+          <a href="publications.html#pub-LDLLL2023">Li et al. (2023)</a> ·
+          <a href="publications.html#pub-LLR2022">Li, Lai &amp; Rodet (2022)</a> ·
+          <a href="publications.html#pub-LDLLL2022">Li et al. (2022)</a> ·
+          <a href="publications.html#pub-LDLLL2021">Li et al. (2021)</a>
+        </p>
+      </div>
+
+      <div class="figure-grid">
+        <figure class="sim">
+          <video controls preload="none" playsinline poster="images/posters/talk-BBH-LANL-laastro-2022-movie1.jpg">
+            <source src="files/talk-BBH-LANL-laastro-2022-movie1.mp4" type="video/mp4">
+            Your browser does not support embedded video. <a href="files/talk-BBH-LANL-laastro-2022-movie1.mp4">Download the movie</a>.
+          </video>
+          <figcaption><b>Two black holes embedded in an AGN disk.</b> Global 2D hydrodynamic simulation in radius and azimuth: each black hole clears a gap and drives spiral density waves through the surrounding disk.</figcaption>
+        </figure>
+
+        <figure class="sim">
+          <video controls preload="none" playsinline poster="images/posters/talk-BBH-LANL-laastro-2022-movie2.jpg">
+            <source src="files/talk-BBH-LANL-laastro-2022-movie2.mp4" type="video/mp4">
+            Your browser does not support embedded video. <a href="files/talk-BBH-LANL-laastro-2022-movie2.mp4">Download the movie</a>.
+          </video>
+          <figcaption><b>Zoom on the encounter.</b> The same run viewed inside the Hill sphere (dashed circle). The two black holes carry their own circum-single disks, which collide as the pair passes through pericentre.</figcaption>
+        </figure>
+
+        <figure class="sim">
+          <video controls preload="none" playsinline poster="images/posters/file_DDA55_movie.jpg">
+            <source src="files/file_DDA55_movie.mp4" type="video/mp4">
+            Your browser does not support embedded video. <a href="files/file_DDA55_movie.mp4">Download the movie</a>.
+          </video>
+          <figcaption><b>Gas-assisted binary capture.</b> A close encounter in the frame co-moving with one black hole, with separations measured in Hill radii. The collision of the two circum-single disks drains orbital energy and can leave the pair bound.</figcaption>
+        </figure>
+
+        <figure class="sim">
+          <video controls preload="none" playsinline poster="images/posters/talk-BBH-Cornell-AL-2022-movie1.jpg">
+            <source src="files/talk-BBH-Cornell-AL-2022-movie1.mp4" type="video/mp4">
+            Your browser does not support embedded video. <a href="files/talk-BBH-Cornell-AL-2022-movie1.mp4">Download the movie</a>.
+          </video>
+          <figcaption><b>Many encounters, one capture.</b> The relative trajectory of two black holes orbiting a supermassive black hole, against the Hill radius (dashed). Most passages are harmless; occasionally one is close enough to form a bound binary.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <!-- ============ Earlier work ============ -->
+    <section class="theme" id="earlier">
+      <h2>Earlier work</h2>
+      <div class="prose">
+        <p>As an undergraduate at the University of Toronto I worked with Artur Izmaylov on quantum molecular dynamics — specifically on geometric phase effects in nonadiabatic transitions through a conical intersection, and on which parameters of an <i>N</i>-dimensional linear vibronic coupling model suppress them.</p>
+        <p class="theme-papers">Related paper: <a href="publications.html#pub-LJI2017">Li, Joubert-Doriol &amp; Izmaylov (2017)</a></p>
+      </div>
+    </section>
+
+  </div>
+
+  <section class="section">
+    <div class="container">
+      <ul class="linkrow">
+        <li><a href="publications.html">All publications &rarr;</a></li>
+        <li><a href="talks.html">Talks &amp; posters &rarr;</a></li>
+      </ul>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <p>&copy; 2026 Jiaru Li · <a href="mailto:jl2703@cam.ac.uk">jl2703@cam.ac.uk</a></p>
+    <nav class="footer-links" aria-label="Footer">
+      <a href="research.html">Research</a>
+      <a href="publications.html">Publications</a>
+      <a href="talks.html">Talks</a>
+      <a href="cv.html">CV</a>
+      <a href="https://orcid.org/0000-0001-5550-7421">ORCID</a>
+    </nav>
+  </div>
+</footer>
+
+<script src="assets/js/site.js"></script>
+</body>
+</html>
