@@ -197,6 +197,22 @@ figure.sim figcaption b { color: var(--text); font-weight: 600; }
 }
 .photo figcaption { font-size: .85rem; color: var(--muted); margin-top: .5rem; line-height: 1.45; }
 
+.zoomable { cursor: zoom-in; transition: opacity .15s; }
+.zoomable:hover { opacity: .9; }
+.photo-zoom {
+  position: fixed; inset: 0; z-index: 1000; cursor: zoom-out;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: .9rem; padding: 2rem; background: rgba(12, 14, 18, .88);
+}
+.photo-zoom[hidden] { display: none; }
+.photo-zoom img, .photo-zoom .photo-ph {
+  max-width: min(92vw, 1400px); max-height: 82vh; width: auto; height: auto;
+  border-radius: var(--radius); box-shadow: 0 10px 40px rgba(0, 0, 0, .45);
+}
+.photo-zoom .photo-ph { width: min(80vw, 1000px); aspect-ratio: 4 / 3; font-size: 1.1rem; }
+.photo-zoom p { color: #e8eaee; font-size: .95rem; max-width: 70ch; text-align: center; margin: 0; }
+html.zoom-open { overflow: hidden; }
+
 /* --- publications --------------------------------------------------------- */
 .filters { display: flex; flex-wrap: wrap; gap: .5rem; margin-bottom: 2rem; }
 .filters button {

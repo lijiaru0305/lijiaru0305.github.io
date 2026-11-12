@@ -62,4 +62,57 @@
       });
     });
   }
+
+  /* Notes photos: click to magnify; click anywhere or press Esc to close */
+  var photos = document.querySelectorAll(".photo > img, .photo > .photo-ph");
+  if (photos.length) {
+    var zoom = document.createElement("div");
+    zoom.className = "photo-zoom";
+    zoom.hidden = true;
+    zoom.setAttribute("role", "dialog");
+    zoom.setAttribute("aria-modal", "true");
+    zoom.setAttribute("aria-label", "Magnified photo (click or press Esc to close)");
+    document.body.appendChild(zoom);
+    var opener = null;
+
+    var close = function () {
+      zoom.hidden = true;
+      zoom.textContent = "";
+      document.documentElement.classList.remove("zoom-open");
+      if (opener) opener.focus();
+    };
+    var open = function (el) {
+      opener = el;
+      var big = el.cloneNode(true);
+      big.removeAttribute("tabindex");
+      big.removeAttribute("role");
+      if (big.dataset && big.dataset.full) big.src = big.dataset.full;  // optional larger file
+      zoom.appendChild(big);
+      var cap = el.parentNode.querySelector("figcaption");
+      if (cap) {
+        var c = document.createElement("p");
+        c.textContent = cap.textContent;
+        zoom.appendChild(c);
+      }
+      zoom.hidden = false;
+      document.documentElement.classList.add("zoom-open");
+      zoom.tabIndex = -1;
+      zoom.focus();
+    };
+
+    Array.prototype.forEach.call(photos, function (el) {
+      el.classList.add("zoomable");
+      el.tabIndex = 0;
+      el.setAttribute("role", "button");
+      el.setAttribute("aria-label", "Magnify photo");
+      el.addEventListener("click", function () { open(el); });
+      el.addEventListener("keydown", function (e) {
+        if (e.key === "Enter" || e.key === " ") { e.preventDefault(); open(el); }
+      });
+    });
+    zoom.addEventListener("click", close);
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape" && !zoom.hidden) close();
+    });
+  }
 })();
