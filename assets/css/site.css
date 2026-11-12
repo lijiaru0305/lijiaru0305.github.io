@@ -150,18 +150,20 @@ figure.sim video {
 figure.sim figcaption { font-size: .88rem; color: var(--muted); margin-top: .6rem; line-height: 1.5; }
 figure.sim figcaption b { color: var(--text); font-weight: 600; }
 
-/* --- home: looping simulations ----------------------------------------- */
-.loop-row {
-  display: grid; grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1.75rem; margin-top: 2.25rem; max-width: 840px;
+/* --- home: one display per research topic ------------------------------ */
+.topic-grid {
+  display: grid; grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2rem; margin-top: 2.25rem; align-items: start;
 }
-.sim-loop { margin: 0; }
-.sim-loop video {
-  width: 100%; aspect-ratio: 1 / 1; display: block; background: #2b2b44;
-  border: 1px solid var(--rule); border-radius: var(--radius); cursor: pointer;
+.topic { margin: 0; }
+.topic img, .topic video {
+  width: 100%; aspect-ratio: 1 / 1; display: block; object-fit: cover;
+  background: #2b2b44; border: 1px solid var(--rule); border-radius: var(--radius);
 }
-.sim-loop figcaption { font-size: .86rem; color: var(--muted); margin-top: .7rem; line-height: 1.5; }
-.sim-loop figcaption b { color: var(--text); font-weight: 600; }
+.topic video { cursor: pointer; }
+.topic h3 { margin: 1rem 0 .3em; }
+.topic p { margin-bottom: 0; }
+.topic-src { font-size: .82rem; color: var(--muted); line-height: 1.5; margin-top: .6rem; }
 
 /* --- publications --------------------------------------------------------- */
 .filters { display: flex; flex-wrap: wrap; gap: .5rem; margin-bottom: 2rem; }
@@ -244,6 +246,7 @@ figure.sim figcaption b { color: var(--text); font-weight: 600; }
 /* --- responsive ----------------------------------------------------------- */
 @media (max-width: 860px) {
   .hero-grid { grid-template-columns: 160px 1fr; gap: 1.75rem; }
+  .topic-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.75rem; }
 }
 @media (max-width: 680px) {
   body { font-size: 16px; }
@@ -261,8 +264,8 @@ figure.sim figcaption b { color: var(--text); font-weight: 600; }
   .hero { padding: 2.25rem 0 1.75rem; }
   .hero-grid { grid-template-columns: 1fr; gap: 1.5rem; }
   .hero-photo { width: 150px; }
-  .loop-row { grid-template-columns: 1fr; gap: 1.75rem; }
-  .sim-loop video, .sim-loop figcaption { max-width: 320px; margin-inline: auto; }
+  .topic-grid { grid-template-columns: 1fr; gap: 2.25rem; }
+  .topic img, .topic video { max-width: 320px; }
   .news li { grid-template-columns: 1fr; gap: .15rem; padding: .85rem 0; }
   .cv-entry { grid-template-columns: 1fr; gap: .25rem; }
   .section { padding: 2.5rem 0; }
