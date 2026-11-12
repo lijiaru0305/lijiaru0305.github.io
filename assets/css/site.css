@@ -169,6 +169,34 @@ figure.sim figcaption b { color: var(--text); font-weight: 600; }
 .topic-src { font-size: .82rem; color: var(--muted); line-height: 1.5; margin-top: .6rem; }
 .topic-src-label { color: var(--text); font-weight: 600; }
 
+/* --- notes: places map + photo galleries -------------------------------- */
+.places-map { margin-top: 1.5rem; border: 1px solid var(--rule); border-radius: var(--radius); overflow: hidden; }
+.places-map svg { display: block; width: 100%; height: auto; }
+.pm-sea { fill: var(--surface); }
+.pm-grid { fill: none; stroke: var(--rule); stroke-width: .6; }
+.pm-land { fill: #dfe4ea; }
+.pm-border { fill: none; stroke: #fff; stroke-width: .8; }
+.pm-route { fill: none; stroke: var(--accent); stroke-width: 1.5; stroke-dasharray: 4 6; opacity: .55; }
+.pm-place circle { fill: var(--accent); stroke: #fff; stroke-width: 2.5; }
+.pm-place text { font: 600 15px var(--sans); fill: var(--ink); paint-order: stroke; stroke: #fff; stroke-width: 4px; stroke-linejoin: round; }
+.pm-place:focus { outline: none; }
+.pm-place:focus circle, .pm-place:hover circle { fill: var(--accent-ink); r: 9; }
+.places-list { margin-top: 1.25rem; font-size: .95rem; }
+.photo-grid {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 1.25rem; margin-top: 1.5rem;
+}
+.photo { margin: 0; }
+.photo img, .photo-ph {
+  width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: block;
+  border-radius: var(--radius);
+}
+.photo-ph {
+  display: grid; place-items: center; background: var(--surface-2);
+  border: 1px dashed #c9cfd8; color: var(--muted); font-size: .85rem;
+}
+.photo figcaption { font-size: .85rem; color: var(--muted); margin-top: .5rem; line-height: 1.45; }
+
 /* --- publications --------------------------------------------------------- */
 .filters { display: flex; flex-wrap: wrap; gap: .5rem; margin-bottom: 2rem; }
 .filters button {
@@ -270,6 +298,8 @@ figure.sim figcaption b { color: var(--text); font-weight: 600; }
   .hero-photo { width: 150px; }
   .topic-grid { grid-template-columns: 1fr; gap: 2.25rem; }
   .topic img, .topic video { max-width: 320px; }
+  .pm-place text { font-size: 26px; stroke-width: 6px; }
+  .pm-place circle { r: 10; }
   .news li { grid-template-columns: 1fr; gap: .15rem; padding: .85rem 0; }
   .cv-entry { grid-template-columns: 1fr; gap: .25rem; }
   .section { padding: 2.5rem 0; }
