@@ -38,12 +38,15 @@
     var land = topojson.feature(world, world.objects.countries);
     var borders = topojson.mesh(world, world.objects.countries, function (a, b) { return a !== b; });
 
-    // Whole world, centred on Greenwich; height trimmed to the projected globe.
+    // Whole world in longitude, centred on Greenwich, cut off at SOUTH_LIMIT
+    // (parallels are straight lines in this projection, so the cut is clean).
+    var SOUTH_LIMIT = -15;
     var sphere = { type: "Sphere" };
     var projection = d3.geoNaturalEarth1().fitWidth(W - 2 * PAD, sphere);
     var b = d3.geoPath(projection).bounds(sphere);
-    H = Math.ceil(b[1][1] - b[0][1]) + 2 * PAD;
     projection.translate([projection.translate()[0] + PAD, projection.translate()[1] - b[0][1] + PAD]);
+    H = Math.ceil(projection([0, SOUTH_LIMIT])[1]);
+    projection.clipExtent([[0, 0], [W, H]]);
     var path = d3.geoPath(projection);
 
     var svg = node("svg", { viewBox: "0 0 " + W + " " + H, role: "img",
