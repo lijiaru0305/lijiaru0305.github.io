@@ -155,18 +155,15 @@ figure.sim figcaption b { color: var(--text); font-weight: 600; }
   display: grid; grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 2rem; margin-top: 2.25rem; align-items: start;
 }
-/* each card spans three shared rows (figure, title, blurb) so titles line up
-   across columns even when the figure captions differ in length */
-.topic { margin: 0; display: grid; grid-template-rows: subgrid; grid-row: span 3; row-gap: 0; }
-.topic-fig { margin: 0; }
+.topic { margin: 0; }
 .topic img, .topic video {
   width: 100%; aspect-ratio: 1 / 1; display: block; object-fit: cover;
   background: #2b2b44; border: 1px solid var(--rule); border-radius: var(--radius);
 }
 .topic video { cursor: pointer; }
-.topic h3 { margin: 1.25rem 0 .3em; }
+.topic h3 { margin: 1rem 0 .3em; }
 .topic p { margin-bottom: 0; }
-.topic-src { font-size: .82rem; color: var(--muted); line-height: 1.5; margin-top: .55rem; }
+.topic-src { font-size: .82rem; color: var(--muted); line-height: 1.5; margin-top: .6rem; }
 
 /* --- publications --------------------------------------------------------- */
 .filters { display: flex; flex-wrap: wrap; gap: .5rem; margin-bottom: 2rem; }
