@@ -164,6 +164,7 @@ figure.sim figcaption b { color: var(--text); font-weight: 600; }
 .topic h3 { margin: 1rem 0 .3em; }
 .topic p { margin-bottom: 0; }
 .topic-src { font-size: .82rem; color: var(--muted); line-height: 1.5; margin-top: .6rem; }
+.topic-src-label { color: var(--text); font-weight: 600; }
 
 /* --- publications --------------------------------------------------------- */
 .filters { display: flex; flex-wrap: wrap; gap: .5rem; margin-bottom: 2rem; }
