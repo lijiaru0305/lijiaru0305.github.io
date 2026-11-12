@@ -155,13 +155,16 @@ figure.sim figcaption b { color: var(--text); font-weight: 600; }
   display: grid; grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 2rem; margin-top: 2.25rem; align-items: start;
 }
-.topic { margin: 0; }
+/* each card spans four shared rows (title, summary, display, caption) so the
+   displays line up across columns even when the summaries differ in length */
+.topic { margin: 0; display: grid; grid-template-rows: subgrid; grid-row: span 4; row-gap: 0; align-content: start; }
 .topic img, .topic video {
   width: 100%; aspect-ratio: 1 / 1; display: block; object-fit: cover;
   background: #2b2b44; border: 1px solid var(--rule); border-radius: var(--radius);
 }
 .topic video { cursor: pointer; }
-.topic h3 { margin: 1rem 0 .3em; }
+.topic h3 { margin: 0 0 .3em; }
+.topic > .small { margin-bottom: 1rem; }
 .topic p { margin-bottom: 0; }
 .topic-src { font-size: .82rem; color: var(--muted); line-height: 1.5; margin-top: .6rem; }
 .topic-src-label { color: var(--text); font-weight: 600; }
