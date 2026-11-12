@@ -150,6 +150,50 @@ figure.sim video {
 figure.sim figcaption { font-size: .88rem; color: var(--muted); margin-top: .6rem; line-height: 1.5; }
 figure.sim figcaption b { color: var(--text); font-weight: 600; }
 
+/* research page: section tabs, stuck just under the site header; pills like .linkrow (Notes page) */
+.theme-tabs {
+  position: sticky; top: 61px; z-index: 40; margin: -3.4rem 0 2.5rem;   /* pulled up into the intro's bottom padding */
+  background: rgba(255,255,255,.94); backdrop-filter: saturate(180%) blur(8px);
+}
+.theme-tabs .tabs-row {
+  display: flex; gap: .5rem; padding-block: .6rem .75rem; overflow-x: auto; scrollbar-width: none;
+  border-bottom: 1px solid var(--rule);   /* same rule as between sections, content width */
+}
+.theme-tabs .tabs-row::-webkit-scrollbar { display: none; }
+@media (max-width: 680px) { .theme-tabs { margin-top: -2.6rem; } }   /* section padding shrinks to 2.5rem there */
+.theme-tabs a {
+  flex: none; display: inline-block; font-size: .88rem; font-weight: 500; white-space: nowrap;
+  padding: .4rem .85rem; border: 1px solid var(--rule); border-radius: 999px;
+  color: var(--text); background: var(--bg); transition: background .15s, border-color .15s, color .15s;
+}
+.theme-tabs a:hover,
+.theme-tabs a[aria-current="true"] {
+  text-decoration: none; background: var(--accent-soft); border-color: #c8d9ec; color: var(--accent-ink);
+}
+.theme { scroll-margin-top: 120px; }   /* header + tabs */
+
+/* plain-language opener for each research theme */
+.theme-intro { font-size: 1.06rem; color: var(--text); border-left: 3px solid var(--accent); padding-left: 1rem; margin-bottom: 1.4rem; }
+
+/* static figures on the research page (click to magnify, via site.js) */
+.fig-row { display: grid; grid-template-columns: minmax(0, 1fr); gap: 1.75rem; margin-bottom: 1.75rem; max-width: 980px; }
+.fig-row.pair { grid-template-columns: minmax(0, 1fr) minmax(0, 2fr); align-items: start; }  /* square + 2:1, equal heights */
+@media (max-width: 760px) { .fig-row.pair { grid-template-columns: minmax(0, 1fr); } }
+.fig-row.col { max-width: var(--prose); }  /* single figure, as wide as the text column */
+.fig-row.col figcaption { max-width: none; }
+.figure-grid.col { max-width: var(--prose); margin-bottom: 1.75rem; }  /* movies held to the text column too */
+/* GW Ori: observation (1.13:1) beside the animation (1.79:1), equal heights */
+.fig-row.gw { grid-template-columns: minmax(0, 1.13fr) minmax(0, 1.79fr); align-items: start; }
+@media (max-width: 680px) { .fig-row.gw { grid-template-columns: minmax(0, 1fr); } }
+figure.fig video { display: block; width: 100%; background: #0e1116; border: 1px solid var(--rule); border-radius: var(--radius); }
+figure.fig { margin: 0; }
+figure.fig img {
+  display: block; width: 100%; height: auto; background: #fff;
+  border: 1px solid var(--rule); border-radius: var(--radius);
+}
+figure.fig figcaption { font-size: .88rem; color: var(--muted); margin-top: .6rem; line-height: 1.5; max-width: var(--prose); }
+figure.fig figcaption b { color: var(--text); font-weight: 600; }
+
 /* --- home: one display per research topic ------------------------------ */
 .topic-grid {
   display: grid; grid-template-columns: repeat(3, minmax(0, 1fr));

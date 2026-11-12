@@ -63,15 +63,35 @@
     });
   }
 
-  /* Notes photos: click to magnify; click anywhere or press Esc to close */
-  var photos = document.querySelectorAll(".photo > img, .photo > .photo-ph");
+  /* Research page tabs: highlight the section currently in view */
+  var tabs = Array.prototype.slice.call(document.querySelectorAll(".theme-tabs a"));
+  if (tabs.length) {
+    var secs = tabs.map(function (a) { return document.getElementById(a.getAttribute("href").slice(1)); });
+    var current = -1;
+    var update = function () {
+      var k = -1, line = Math.max(140, window.innerHeight * 0.4);   // a section is current once its top passes this line
+      secs.forEach(function (s, i) { if (s && s.getBoundingClientRect().top <= line) k = i; });
+      if (k === current) return;
+      current = k;
+      tabs.forEach(function (a, i) {
+        if (i === k) a.setAttribute("aria-current", "true"); else a.removeAttribute("aria-current");
+      });
+      var bar = tabs[0].parentNode;
+      if (k >= 0 && bar.scrollWidth > bar.clientWidth) bar.scrollLeft = tabs[k].offsetLeft - 16;  // keep it visible on phones
+    };
+    window.addEventListener("scroll", update, { passive: true });   // cheap: four rects per scroll
+    update();
+  }
+
+  /* Notes photos and research figures: click to magnify; click anywhere or press Esc to close */
+  var photos = document.querySelectorAll(".photo > img, .photo > .photo-ph, figure.fig > img");
   if (photos.length) {
     var zoom = document.createElement("div");
     zoom.className = "photo-zoom";
     zoom.hidden = true;
     zoom.setAttribute("role", "dialog");
     zoom.setAttribute("aria-modal", "true");
-    zoom.setAttribute("aria-label", "Magnified photo (click or press Esc to close)");
+    zoom.setAttribute("aria-label", "Magnified image (click or press Esc to close)");
     document.body.appendChild(zoom);
     var opener = null;
 
@@ -104,7 +124,7 @@
       el.classList.add("zoomable");
       el.tabIndex = 0;
       el.setAttribute("role", "button");
-      el.setAttribute("aria-label", "Magnify photo");
+      el.setAttribute("aria-label", "Magnify image");
       el.addEventListener("click", function () { open(el); });
       el.addEventListener("keydown", function (e) {
         if (e.key === "Enter" || e.key === " ") { e.preventDefault(); open(el); }
